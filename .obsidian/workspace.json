@@ -98,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -177,9 +178,9 @@
   },
   "active": "2419ff80a39ac83a",
   "lastOpenFiles": [
-    "Тест.md",
     "Учёба/django/Создание проекта (1).md",
     "Учёба/django/Создание приложения (2).md",
+    "Тест.md",
     "Учёба/ТРиЗБД/Введение в SQL.md",
     "Каталог.md",
     "Учёба/ТРиЗБД/Использование SQL в Access.md",
