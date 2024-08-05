@@ -54,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "80d01da7803e3382",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/django/Маршрутизация (3).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af3aea90ce571d55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/django/Определение маршрутов + path.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -98,8 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -115,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учёба/django/Создание приложения (2).md",
+                "file": "Учёба/django/Определение маршрутов + path.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учёба/django/Создание приложения (2).md",
+                "file": "Учёба/django/Определение маршрутов + path.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учёба/django/Создание приложения (2).md"
+                "file": "Учёба/django/Определение маршрутов + path.md"
               }
             }
           }
@@ -176,10 +199,12 @@
       "markdown-importer:Импорт Markdown-файлов": false
     }
   },
-  "active": "2419ff80a39ac83a",
+  "active": "af3aea90ce571d55",
   "lastOpenFiles": [
-    "Учёба/django/Создание проекта (1).md",
+    "Учёба/django/Маршрутизация (3).md",
+    "Учёба/django/Определение маршрутов + path.md",
     "Учёба/django/Создание приложения (2).md",
+    "Учёба/django/Создание проекта (1).md",
     "Тест.md",
     "Учёба/ТРиЗБД/Введение в SQL.md",
     "Каталог.md",
@@ -204,8 +229,6 @@
     "Психология",
     "Учёба/РПМ (C sharp)/Наследование.md",
     "Учёба/СП (C++)/Строки.md",
-    "Учёба/ТРиЗБД/Интерфейс пользователя в информационных системах.md",
-    "Учёба/КомпьютерныеСети/Модель OSI.md",
     "Pasted image 20240405123858.png",
     "Pasted image 20240405123821.png",
     "Учёба/Картинки/Pasted image 20240122132245 1.png",
