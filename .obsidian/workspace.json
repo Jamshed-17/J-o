@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "cd61906aa460e0a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fa6aebb10e76602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7c7b3933f22f6e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "933ccc739689d52f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a33900d92f5bec4e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "92be2fe6d4af543e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f491e6fb244c6d4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd67e76a3225df73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b31d39e2495680d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42bf481ca3689b41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "н",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "74f26509ea9f1fbc",
+    "type": "split",
+    "children": [
+      {
+        "id": "53d200c4744a4bc7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44ae92c6d4f08df3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "135a70b3662dec94",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4ad21a8fee72c6c0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1afd1766c977a607",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "92be2fe6d4af543e",
+  "lastOpenFiles": [
+    "Учёба/ТРиЗБД/Введение в SQL.md",
+    "Каталог.md",
+    "Учёба/ТРиЗБД/Использование SQL в Access.md",
+    "Психология/Правила ответов на вопросы.md",
+    "Психология/Приёмы поддержания интереса.md",
+    "Психология/Приёмы завершения презентации.md",
+    "Учёба/Кодики.md",
+    "Без названия 1.md",
+    "Учёба/РПМ (C sharp)/Инкапсуляция.md",
+    "Учёба/РПМ (C sharp)/Жизненный цикл ПО.md",
+    "Учёба/РПМ (C sharp)/Массивы.md",
+    "Учёба/ТРиЗБД/Безопасность данных.md",
+    "Учёба/РПМ (C sharp)/Основы алгоритмизации.md",
+    "Учёба/РПМ (C sharp)/Ветвления.md",
+    "Учёба/ВиПКС/Измерение_и_оценка_характеристик_качества_ПО 1.md",
+    "Учёба/Web/Селекторы.md",
+    "Pasted image 20240516085916.png",
+    "Учёба/Web/Стили кода и построение макетов.md",
+    "Учёба/Web/Стили кода.md",
+    "Учёба/СП (C++)/Указатели.md",
+    "Психология",
+    "Учёба/РПМ (C sharp)/Наследование.md",
+    "Учёба/СП (C++)/Строки.md",
+    "Учёба/ТРиЗБД/Интерфейс пользователя в информационных системах.md",
+    "Учёба/КомпьютерныеСети/Модель OSI.md",
+    "Учёба/ОАиП (python)/Файлы в python.md",
+    "Учёба/СП (C++)/Векторы.md",
+    "Учёба/СистемноеПрограммирование (C++)/Векторы 1.md",
+    "Pasted image 20240405123858.png",
+    "Pasted image 20240405123821.png",
+    "Учёба/Картинки/Pasted image 20240122132245 1.png",
+    "Учёба/Картинки/Рисунок3.png",
+    "Pasted image 20240401125537.png",
+    "Pasted image 20240326105359.png",
+    "Учёба/Web/Сетевые протоколы.docx",
+    "Учёба.rar",
+    "Учёба/ВиПКС",
+    "Музыка",
+    "Учёба",
+    "Без названия.canvas",
+    "Обсидиан.rar",
+    "Учёба/Картинки/Рисунок4.png",
+    "Учёба/Картинки/Рисунок2.png",
+    "Учёба/Картинки/Рисунок1.png",
+    "Учёба/Картинки"
+  ]
+}
