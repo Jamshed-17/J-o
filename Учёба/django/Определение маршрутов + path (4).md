@@ -93,3 +93,30 @@ urlpatterns = [
 |r'^products/\w+'|http://127.0.0.1/products/abc/ или http://127.0.0.1/products/123/<br><br>Не соответствует запросу http://127.0.0.1/products/abc-123|
 |r'^products/[-\w]+/'|http://127.0.0.1/products/abc-123|
 |r'^products/[A-Z]{2}/'|http://127.0.0.1/products/RU<br><br>Не соответствует запросам http://127.0.0.1/products/Ru или http://127.0.0.1/products/RUS|
+
+А ещё в Django можно передавать значения в функцию. Это можно сделать с помощью аргмента **kwargs** в path. Пример. Изменим views.py на такой код:
+```python
+from django.http import HttpResponse
+   
+def hw(request):
+    return HttpResponse("<h2>Hello world!</h2>")
+  
+def about(request, name, age):
+    return HttpResponse(f"""
+            <h2>О пользователе</h2>
+            <p>Имя: {name}</p>
+            <p>Возраст: {age}</p>
+    """)
+```
+
+Теперь изменим **urls.py**:
+```python
+from django.urls import path
+from 1 import views
+  
+urlpatterns = [
+    path('', views.hw),
+    path('about', views.about, kwargs={"name":"Tom", "age": 38}),
+]
+```
+
