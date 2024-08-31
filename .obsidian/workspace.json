@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/django/HttpRequest - получение даннных запроса (5).md",
+                "file": "Учёба/ОАиП (python)/django/HttpRequest - получение даннных запроса (5).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/django/Параметры представлений (6).md",
+                "file": "Учёба/ОАиП (python)/django/Параметры представлений (6).md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Учёба/django/Вложенные маршруты и функция include.md",
+                "file": "Учёба/ОАиП (python)/django/Вложенные маршруты и функция include.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95e48c7ee465289d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/ОАиП (python)/django/Параметры представлений (6).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25e9db58ea326cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/Кодики.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98d430a47bbccfc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/ОАиП (python)/Самостоятельно/1. List - Список.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35143fe1d97adb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/ОАиП (python)/Самостоятельно/1. List - Список.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09be2812f867fb7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Учёба/ОАиП (python)/Самостоятельно/2. Tuple - кортежи.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -86,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382.5,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -103,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Учёба/django/Вложенные маршруты и функция include.md",
+                "file": "Учёба/ОАиП (python)/django/HttpRequest - получение даннных запроса (5).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Учёба/django/Вложенные маршруты и функция include.md",
+                "file": "Учёба/ОАиП (python)/django/HttpRequest - получение даннных запроса (5).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Учёба/django/Вложенные маршруты и функция include.md"
+                "file": "Учёба/ОАиП (python)/django/HttpRequest - получение даннных запроса (5).md"
               }
             }
           }
@@ -166,13 +225,21 @@
   },
   "active": "8b31d39e2495680d",
   "lastOpenFiles": [
-    "Учёба/django/Маршрутизация (3).md",
-    "Учёба/django/Вложенные маршруты и функция include.md",
-    "Учёба/django/Параметры представлений (6).md",
-    "Учёба/django/Определение маршрутов + path (4).md",
-    "Учёба/django/HttpRequest - получение даннных запроса (5).md",
-    "Учёба/django/Создание приложения (2).md",
-    "Учёба/django/Создание проекта (1).md",
+    "Учёба/ОАиП (python)/Самостоятельно/3. Dict - словари.md",
+    "Учёба/ОАиП (python)/Самостоятельно/1. List - Список.md",
+    "Учёба/ОАиП (python)/Самостоятельно/2. Tuple - кортежи.md",
+    "Учёба/Кодики.md",
+    "Учёба/ОАиП (python)/Самостоятельно",
+    "Учёба/ОАиП (python)/django/Параметры представлений (6).md",
+    "Учёба/ОАиП (python)/django/Вложенные маршруты и функция include.md",
+    "Учёба/ОАиП (python)/Словари.md",
+    "Учёба/ОАиП (python)/django/Определение маршрутов + path (4).md",
+    "Учёба/ОАиП (python)/django/Маршрутизация (3).md",
+    "Учёба/ОАиП (python)/django/Создание приложения (2).md",
+    "Учёба/ОАиП (python)/django/Создание проекта (1).md",
+    "Учёба/Git/Образ совместной разработки.md",
+    "Учёба/Git",
+    "Учёба/ОАиП (python)/django/HttpRequest - получение даннных запроса (5).md",
     "Тест.md",
     "Учёба/ТРиЗБД/Введение в SQL.md",
     "Каталог.md",
@@ -180,19 +247,13 @@
     "Психология/Правила ответов на вопросы.md",
     "Психология/Приёмы поддержания интереса.md",
     "Психология/Приёмы завершения презентации.md",
-    "Учёба/Кодики.md",
     "Без названия 1.md",
     "Учёба/РПМ (C sharp)/Инкапсуляция.md",
     "Учёба/РПМ (C sharp)/Жизненный цикл ПО.md",
     "Учёба/РПМ (C sharp)/Массивы.md",
     "Учёба/ТРиЗБД/Безопасность данных.md",
     "Учёба/РПМ (C sharp)/Основы алгоритмизации.md",
-    "Учёба/РПМ (C sharp)/Ветвления.md",
-    "Учёба/ВиПКС/Измерение_и_оценка_характеристик_качества_ПО 1.md",
-    "Учёба/Web/Селекторы.md",
     "Pasted image 20240516085916.png",
-    "Учёба/Web/Стили кода и построение макетов.md",
-    "Учёба/Web/Стили кода.md",
     "Психология",
     "Pasted image 20240405123858.png",
     "Pasted image 20240405123821.png",
