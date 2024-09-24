@@ -197,7 +197,7 @@ print(...)
             x = x + 1
             return x
 >>> lis = [1,2,3,4,5]
->>> result = map(inc,lis)
+>>> result = map(int,lis)
 >>> for x in result:
             print(x)
 2
