@@ -66,3 +66,4 @@ void changeRostVes(int rost1, double ves1);
 }
 ```
 
+[[Конструкторы]]

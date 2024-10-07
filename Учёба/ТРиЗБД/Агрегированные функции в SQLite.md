@@ -108,3 +108,125 @@ MIN(price) AS min_price,
 MAX(price) AS max_price, 
 AVG(price) AS avg_price FROM products;
 ```
+
+
+
+
+
+234567890-0007654345678-
+
+### 1. Найти среднее значение оценок по каждому студенту
+
+sql
+
+Копировать код
+
+`SELECT KOD_STUDENT, AVG(ocenka) AS Средняя_оценка FROM uspev GROUP BY KOD_STUDENT;`
+
+### 2. Найти максимальную оценку по каждой дисциплине
+
+sql
+
+Копировать код
+
+`SELECT kod_disciplina, MAX(ocenka) AS Максимальная_оценка FROM uspev GROUP BY kod_disciplina;`
+
+### 3. Найти среднюю оценку, выставленную каждым преподавателем
+
+sql
+
+Копировать код
+
+`SELECT KOD_PREPID, AVG(ocenka) AS Средняя_оценка FROM uspev GROUP BY KOD_PREPID;`
+
+### 4. Вывести минимальную оценку, выставленную каждым пр
+
+sql
+
+Копировать код
+
+`SELECT KOD_PREPID, MIN(ocenka) AS Минимальная_оценка FROM uspev GROUP BY KOD_PREPID;`
+
+### 5. Перевести каждую оценку в рейтинговый бал (оценка, большая 3 баллов, увеличивается в 2 раза)
+
+sql
+
+Копировать код
+
+`SELECT KOD_STUDENT,         KOD_DISCIPLINA,         CASE             WHEN ocenka > 3 THEN ocenka * 2             ELSE ocenka         END AS Рейтинговый_бал FROM uspev;`
+
+### 6. Подсчитать количество разных групп
+
+sql
+
+Копировать код
+
+`SELECT COUNT(DISTINCT KOD_GRUPPA) AS Количество_групп FROM GRUPPA;`
+
+### 7. Подсчитать количество различных квартир
+
+sql
+
+Копировать код
+
+`SELECT COUNT(DISTINCT KVART) AS Количество_квартир FROM DANNIE;`
+
+### 8. Вывести среднюю оценку, максимальную оценку, минимальную оценку для студента с кодом 3
+
+sql
+
+Копировать код
+
+`SELECT AVG(ocenka) AS Средняя_оценка,        MAX(ocenka) AS Максимальная_оценка,        MIN(ocenka) AS Минимальная_оценка FROM uspev WHERE KOD_STUDENT = 3;`
+
+### 9. Подсчитать количество хороших оценок (считаем оценки >= 4)
+
+sql
+
+Копировать код
+
+`SELECT COUNT(*) AS Количество_хороших_оценок FROM uspev WHERE ocenka >= 4;`
+
+### 10. Подсчитать процент двоек, выставленных каждым преподавателем
+
+sql
+
+Копировать код
+
+`SELECT KOD_PREPID,         100.0 * SUM(CASE WHEN ocenka = 2 THEN 1 ELSE 0 END) / COUNT(*) AS Процент_двоек FROM uspev GROUP BY KOD_PREPID;`
+
+### 11. Посчитать количество и сумму 5-к и 4-к
+
+sql
+
+Копировать код
+
+`SELECT COUNT(*) AS Количество_5_и_4,        SUM(ocenka) AS Сумма_5_и_4 FROM uspev WHERE ocenka IN (4, 5);`
+
+### 12. Подсчитать процент качества и процент успеваемости (общее количество оценок 26)
+
+- **Процент качества** (количество оценок >= 4) и **процент успеваемости** (оценки >= 3):
+
+sql
+
+Копировать код
+
+`SELECT      100.0 * SUM(CASE WHEN ocenka >= 4 THEN 1 ELSE 0 END) / 26 AS Процент_качества,     100.0 * SUM(CASE WHEN ocenka >= 3 THEN 1 ELSE 0 END) / 26 AS Процент_успеваемости FROM uspev;`
+
+### 13. На скольких улицах проживают более 1 студента
+
+sql
+
+Копировать код
+
+`SELECT COUNT(*) AS Количество_улиц FROM (     SELECT KOD_ULICA     FROM DANNIE     GROUP BY KOD_ULICA     HAVING COUNT(KOD_STUDENT) > 1 ) AS Студенты_по_улицам;`
+
+### 14. Вывести количество оценок, для которых выполняется условие «оценка * 2 + 1 > 10»
+
+sql
+
+Копировать код
+
+`SELECT COUNT(*) AS Количество_оценок FROM uspev WHERE ocenka * 2 + 1 > 10;`
+
+Эти запросы используют агрегатные функции для выполнения вычислений, таких как `AVG()`, `MAX()`, `MIN()`, `COUNT()` и условные выражения в функции `CASE` для более сложных вычислений.
