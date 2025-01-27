@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md.md",
+                "file": "Прочее/README.md.md",
                 "mode": "source",
                 "source": false
               },
@@ -152,8 +152,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
-    "collapsed": true
+    "width": 231.5
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -249,10 +248,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77619d94c059c41",
+  "active": "8b31d39e2495680d",
   "lastOpenFiles": [
     "Лабораторные/ТРПО 8 - тесты.md",
-    "README.md.md",
+    "Прочее/README.md.md",
     "Математика/Мат_Моделир/Математическое моделирование МДК.02.03.md",
     "Diagram.svg",
     "Diagram.svg.xml",
