@@ -146,9 +146,23 @@
               "icon": "lucide-file",
               "title": "Мой стек"
             }
+          },
+          {
+            "id": "0cc4b32f9f1d2c89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ТРПО/Лаб 8 метрики Холстеда.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лаб 8 метрики Холстеда"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -290,10 +304,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "78739a36fe718cf8",
+  "active": "0cc4b32f9f1d2c89",
   "lastOpenFiles": [
-    "python/Самостоятельно/x. Регулярные выражения.md",
     "Прочее/Мой стек.md",
+    "ТРПО/Лаб 8 метрики Холстеда.md",
+    "python/Самостоятельно/x. Регулярные выражения.md",
     "ПОПД/Правонарушения.md",
     "ПОПД/ПОПД.md",
     "python/Самостоятельно/Flask/2. Шаблоны.md",
@@ -329,7 +344,6 @@
     "English/19 - 12 Английский.md",
     "Философия/Восточная философия.md",
     "Философия/Философия - любовь.md",
-    "ТРПО/ТРПО.md",
     "Учёба/Философия",
     "Учёба/Картинки/Рисунок2.png",
     "Учёба/Картинки/Рисунок1.png",
