@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "include & import in Jinja2"
             }
+          },
+          {
+            "id": "6b16371f249b0d51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Экономика/Задачи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задачи"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,8 +178,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba5dbe10587954f7",
+  "active": "6b16371f249b0d51",
   "lastOpenFiles": [
+    "python/ПиРП/include & import in Jinja2.md",
+    "Экономика/Задачи.md",
     "python/Самостоятельно/Base/1. List - Список.md",
     "python/ОАиП/Встроенные функции python.md",
     "Прочее/Мой стек.md",
@@ -174,7 +191,6 @@
     "Математика/ТВиМС/ТВиМС - вводное занятие.md",
     "ТРиЗБД/Учебный процесс.md",
     "python/Самостоятельно/FastAPI",
-    "python/ПиРП/include & import in Jinja2.md",
     "python/Самостоятельно/Base",
     "python/ПиРП",
     "Old",
@@ -202,7 +218,6 @@
     "Прочее/Картинки/Diagram.svg",
     "Математика/Мат_Моделир",
     "ПОПД (Право)",
-    "Экономика/Экономика.md",
     "Без названия.canvas",
     "Учёба/Картинки/Рисунок2.png",
     "Учёба/Картинки/Рисунок1.png",
