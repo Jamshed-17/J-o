@@ -11,10 +11,14 @@
             "id": "ba5dbe10587954f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "python/ПиРП/include & import in Jinja2.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "include & import in Jinja2"
             }
           }
         ]
@@ -170,9 +174,9 @@
     "Математика/ТВиМС/ТВиМС - вводное занятие.md",
     "ТРиЗБД/Учебный процесс.md",
     "python/Самостоятельно/FastAPI",
-    "python/ПиР/include & import in Jinja2.md",
+    "python/ПиРП/include & import in Jinja2.md",
     "python/Самостоятельно/Base",
-    "python/ПиР",
+    "python/ПиРП",
     "Old",
     "Git/Образ совместной разработки.md",
     "python/ОАиП",
