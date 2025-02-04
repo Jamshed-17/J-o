@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -125,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.5
+    "width": 231.5,
+    "collapsed": true
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -221,11 +222,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6391b2329cfe17a3",
+  "active": "0eb94353ef8f2949",
   "lastOpenFiles": [
+    "РМП/Классы. Null Safety.md",
     "Математика/Мат_Моделир/Математическое моделирование МДК.02.03.md",
     "Математика/ТВиМС/ТВиМС - вводное занятие.md",
-    "РМП/Классы. Null Safety.md",
     "РМП/Массивы в Kotlin.md",
     "English/12-09 words translation.md",
     "РМП",
