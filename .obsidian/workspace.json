@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия.md",
+                "file": "Классы. Null Safety.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Классы. Null Safety"
             }
           }
         ],
@@ -224,7 +224,7 @@
   "active": "6391b2329cfe17a3",
   "lastOpenFiles": [
     "РМП/Массивы в Kotlin.md",
-    "Без названия.md",
+    "Классы. Null Safety.md",
     "English/12-09 words translation.md",
     "РМП",
     "English/19 - 12 Английский.md",
