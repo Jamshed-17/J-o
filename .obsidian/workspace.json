@@ -76,9 +76,23 @@
               "icon": "lucide-file",
               "title": "Классы. Null Safety"
             }
+          },
+          {
+            "id": "a545dbe6aec584c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/Самостоятельно/FastAPI/Первые шаги.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Первые шаги"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -125,7 +139,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -221,11 +236,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b31d39e2495680d",
+  "active": "a545dbe6aec584c3",
   "lastOpenFiles": [
+    "РМП/Классы. Null Safety.md",
+    "python/Самостоятельно/FastAPI/Первые шаги.md",
     "ОкФКС/Лаб 3 - ТЗ.md",
     "РМП/Массивы в Kotlin.md",
-    "РМП/Классы. Null Safety.md",
     "Математика/Мат_Моделир/Математическое моделирование МДК.02.03.md",
     "Математика/ТВиМС/ТВиМС - вводное занятие.md",
     "English/12-09 words translation.md",
@@ -255,7 +271,6 @@
     "Old/СП (C++) МДК 01.04/Векторы.md",
     "Old/СП (C++) МДК 01.04/Ввод и вывод данных в c++.md",
     "Old/СП (C++) МДК 01.04/Temp.md",
-    "ТРПО/ТРПО.md",
     "python/Самостоятельно/Flask",
     "Diagram.svg",
     "Diagram.svg.xml",
