@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Path-параметры"
             }
+          },
+          {
+            "id": "2b179b608b1b5e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/Самостоятельно/FastAPI/Enum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Enum"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -235,10 +249,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a545dbe6aec584c3",
+  "active": "2b179b608b1b5e6f",
   "lastOpenFiles": [
-    "python/Самостоятельно/FastAPI/Первые шаги.md",
     "python/Самостоятельно/FastAPI/Path-параметры.md",
+    "python/Самостоятельно/FastAPI/Enum.md",
+    "python/Самостоятельно/FastAPI/Первые шаги.md",
     "РМП/Классы. Null Safety.md",
     "ОкФКС/Лаб 3 - ТЗ.md",
     "РМП/Массивы в Kotlin.md",
@@ -269,7 +284,6 @@
     "Old/СП (C++) МДК 01.04/Конструкторы.md",
     "Old/СП (C++) МДК 01.04/Кабинет редкостей Гильерма Дельторро.md",
     "Old/СП (C++) МДК 01.04/Векторы.md",
-    "Old/СП (C++) МДК 01.04/Ввод и вывод данных в c++.md",
     "python/Самостоятельно/Flask",
     "Diagram.svg",
     "Diagram.svg.xml",
