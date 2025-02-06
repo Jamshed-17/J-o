@@ -112,3 +112,45 @@ class User(BaseModel):
 oleg = User(id=1, name="Oleg", birthday_date=date(year=1992, month=2, day=19))
 ```
 
+Теперь переведём этот экземпляр в `json` и `dict`:
+```python
+to_dict = oleg.model_dump()
+to_json = oleg.model_dump_json()
+
+print(to_dict, type(to_dict))
+print(to_json, type(to_json))
+```
+
+В результате получим следующее:
+```
+{'id': 1, 'name': 'Oleg', 'birthday_date': datetime.date(1992, 2, 19)} <class 'dict'>
+{"id":1,"name":"Oleg","birthday_date":"1992-02-19"} <class 'str'>
+```
+
+А если мы создадим другой экземпляр и передадим данные другим образом?
+
+```python
+alex = User(id=2, name="Алексей", birthday_date="1992-11-22")
+```
+
+Выведем точно так же:
+```python
+to_dict = alex.model_dump()
+to_json = alex.model_dump_json()
+
+print(to_dict, type(to_dict))
+print(to_json, type(to_json))
+```
+
+Получим следующее:
+```
+{'id': 2, 'name': 'Алексей', 'birthday_date': datetime.date(1992, 11, 22)} <class 'dict'>
+{"id":2,"name":"Алексей","birthday_date":"1992-11-22"} <class 'str'>
+```
+
+==Pydantic самостоятельно преобразует данные в нужный формат==
+
+### `field_validator`
+
+Это декоратор, который служит для проверки корректности заполнения полей.
+
