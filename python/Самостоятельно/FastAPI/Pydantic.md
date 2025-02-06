@@ -92,3 +92,23 @@ user_data = {"name": "Oleg", "age": 30} user = User(**user_data)
 ```
 
 
+# Практика
+
+```python
+from pydantic import BaseModel
+from datetime import date
+
+class User(BaseModel):
+    id: int
+    name: str
+    birthday_date: date
+    
+```
+
+Здесь мы создали три обязательных поля: `id`, `name`, `birthday_date`. Эти поля будут валидироваться автоматически.
+
+Создадим объект класса:
+```python
+oleg = User(id=1, name="Oleg", birthday_date=date(year=1992, month=2, day=19))
+```
+
