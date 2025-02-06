@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Экономика/Задачи.md",
+                "file": "python/Самостоятельно/FastAPI/Тело запроса.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задачи"
+              "title": "Тело запроса"
             }
           },
           {
@@ -265,8 +265,10 @@
   },
   "active": "6a0c5fcc8ee57986",
   "lastOpenFiles": [
-    "Экономика/Экономика.md",
     "python/Самостоятельно/FastAPI/Query-параметры.md",
+    "python/Самостоятельно/FastAPI/Тело запроса.md",
+    "Экономика/Задачи.md",
+    "Экономика/Экономика.md",
     "python/Самостоятельно/FastAPI/Path-параметры.md",
     "python/Самостоятельно/FastAPI/Enum.md",
     "python/Самостоятельно/FastAPI/Первые шаги.md",
@@ -281,7 +283,6 @@
     "ОкФКС/Качество ПО, Надежность, Методы РАСЧЕТА надёжности КОМПЬЮТЕРНЫХ СИСТЕМ И КОМПЛЕКСОВ.md",
     "python/Самостоятельно/Flask/1. Hello Flask!.md",
     "ОкФКС",
-    "Экономика/Задачи.md",
     "python/ПиРП/include & import in Jinja2.md",
     "python/Самостоятельно/Base/1. List - Список.md",
     "python/ОАиП/Встроенные функции python.md",
@@ -297,7 +298,6 @@
     "Git/Система контроля версий.md",
     "Git/Организация работы команды в git.md",
     "Old/СП (C++) МДК 01.04/ООП в c++.md",
-    "Old/СП (C++) МДК 01.04/Конструкторы.md",
     "python/Самостоятельно/Flask",
     "Diagram.svg",
     "Diagram.svg.xml",
