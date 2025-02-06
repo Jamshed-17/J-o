@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Самостоятельно/FastAPI/Тело запроса.md",
+                "file": "python/Самостоятельно/FastAPI/Pydantic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Тело запроса"
+              "title": "Pydantic"
             }
           },
           {
@@ -167,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 276.5,
+    "collapsed": true
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -265,8 +266,9 @@
   },
   "active": "6a0c5fcc8ee57986",
   "lastOpenFiles": [
-    "python/Самостоятельно/FastAPI/Query-параметры.md",
     "python/Самостоятельно/FastAPI/Тело запроса.md",
+    "python/Самостоятельно/FastAPI/Pydantic.md",
+    "python/Самостоятельно/FastAPI/Query-параметры.md",
     "Экономика/Задачи.md",
     "Экономика/Экономика.md",
     "python/Самостоятельно/FastAPI/Path-параметры.md",
@@ -297,7 +299,6 @@
     "python/ОАиП",
     "Git/Система контроля версий.md",
     "Git/Организация работы команды в git.md",
-    "Old/СП (C++) МДК 01.04/ООП в c++.md",
     "python/Самостоятельно/Flask",
     "Diagram.svg",
     "Diagram.svg.xml",
