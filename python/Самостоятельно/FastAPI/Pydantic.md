@@ -38,3 +38,57 @@ from pydantic import BaseModel, EmailStr
 	    name: str    
 	    email: EmailStr
 ```
+
+>[!ORM]
+>ORM (англ. Object-Relational Mapping, рус. объектно-реляционное отображение, или преобразование) — технология программирования, которая связывает базы данных с концепциями объектно-ориентированных языков программирования, создавая «виртуальную объектную базу данных». 
+
+
+`Pydantic` способен работать с ORM (реляционными базами данных)
+
+Чтобы настроить модель для работы с ORM, используйте параметр `ConfigDict` с флагом `from_attributes=True`.
+
+**Пример:**
+```python
+from datetime import datefrom pydantic import BaseModel, ConfigDictclass User(BaseModel):    id: int    name: str = 'John Doe'    birthday_date: date    config = ConfigDict(from_attributes=True)
+```
+- Для создания модели Pydantic из объекта ORM используется метод `from_orm`.
+
+`user = User.from_orm(orm_instance)`
+
+#### Методы для работы с данными
+
+- `dict()` / `model_dump()` — преобразуют модель в словарь Python. В версии 2 метод `model_dump()` стал аналогом `dict()`.
+
+**Пример:**
+
+```python
+data = user.model_dump()
+```
+
+- `json()` / `model_dump_json()` — преобразуют модель в JSON-строку. В новой версии метод `model_dump_json()` заменяет старый `json()`.
+
+**Пример:**
+
+```python
+json_data = user.model_dump_json()
+```
+
+#### Передача данных в модель
+
+1. **Именованные аргументы:** Поля модели могут задаваться напрямую при создании экземпляра.
+
+**Пример:**
+
+```python
+user = User(name="Oleg", age=30)
+```
+
+2. **Распакованные словари:** Можно передать значения полей с помощью распаковки словарей `**`.
+
+**Пример:**
+
+```python
+user_data = {"name": "Oleg", "age": 30} user = User(**user_data)
+```
+
+
