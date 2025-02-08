@@ -173,3 +173,49 @@ class User(BaseModel):
 
 Сам метод принимает само поле (v) и далее начинает его валидировать.
 
+Проверим модель:
+```python
+user_data = {'id': 3, 'name': '156', 'birthday_date': '1990-11-22'}
+user = User(**user_data)
+print(user.dict())
+```
+
+Вывод:
+```python 
+{'id': 3, 'name': '156', 'birthday_date': datetime.date(1990, 11, 22)}
+```
+
+Неожиданный результат
+
+Допустим, мы передадим такие данные:
+
+```python
+dima = User(
+    id="3",
+    name=("Коля", True, False, 0, 19933),
+    birthday_date="1990-11-22"
+)
+```
+
+Результат:
+
+```python
+{'id': 3, 'name': "('Коля', True, False, 0, 19933)", 'birthday_date': datetime.date(1990, 11, 22)}
+```
+
+Ошибки нет, но явно что-то не так — вместо строки в поле name мы получили кортеж, который был просто преобразован в строку. Очевидно, что такая ситуация недопустима.
+
+Чтобы этого избежать можно сделать вот так:
+
+```python 
+@field_validator('name', mode='before')
+def validate_name(cls, v):
+    if isinstance(v, int):
+        return str(v)
+    elif isinstance(v, str):
+        return v
+    else:
+        raise ValueError("Имя должно быть строкой или числом")
+        
+```
+
