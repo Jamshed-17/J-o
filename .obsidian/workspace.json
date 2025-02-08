@@ -97,12 +97,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python/Самостоятельно/FastAPI/Pydantic.md",
+                "file": "python/Самостоятельно/FastAPI/Path-параметры.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pydantic"
+              "title": "Path-параметры"
             }
           },
           {
@@ -266,12 +266,12 @@
   },
   "active": "6a0c5fcc8ee57986",
   "lastOpenFiles": [
+    "python/Самостоятельно/FastAPI/Первые шаги.md",
+    "python/Самостоятельно/FastAPI/Pydantic.md",
     "python/Самостоятельно/FastAPI/Тело запроса.md",
     "python/Самостоятельно/FastAPI/Query-параметры.md",
-    "python/Самостоятельно/FastAPI/Pydantic.md",
     "python/Самостоятельно/FastAPI/Enum.md",
     "python/Самостоятельно/FastAPI/Path-параметры.md",
-    "python/Самостоятельно/FastAPI/Первые шаги.md",
     "Экономика/Задачи.md",
     "Экономика/Экономика.md",
     "РМП/Классы. Null Safety.md",
