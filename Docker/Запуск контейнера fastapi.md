@@ -53,11 +53,12 @@ CMD ["npm", "start"]
 Создаём образ контейнера:
 
 ```bash
-docker build -t my-react-app-dev .
+docker build -t my-react-app-dev  .
 ```
 
 Запускаем контейнер:
 
 ```bash
-docker run -d --name Frontend_todo_container 3000:3000 my-react-app-dev:dev npm install --save-dev webpack
+docker run -d -p 3000:3000 my-react-app-dev
 ```
+
