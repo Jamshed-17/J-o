@@ -17,10 +17,12 @@ curl -fsSL https://get.docker.com -o get-docker.sh
 ```bash
 sudo chmod +x get-docker.sh
 ```
-1. Сделать скрипт исполняемым
+3. Сделать скрипт исполняемым
 ```bash
 sudo sh ./get-docker.sh
 ```
+
+...Подождите...
 
 После этих процедур можно приступить к запуску приложения. 
 
