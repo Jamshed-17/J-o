@@ -1,4 +1,6 @@
 
+## Backend
+
 Сначала нужно создать образ контейнера
 
 ```bash
@@ -28,3 +30,34 @@ CMD ["uvicorn", "app.main:app", "--host", "0.0.0.0", "--port", "80"]
 ```
 
 
+## Frontend
+
+Запись `Dockerfile`
+
+```dockerfile
+FROM node:18-alpine
+
+WORKDIR /app
+
+COPY package*.json ./
+
+RUN npm install
+
+COPY . .
+
+EXPOSE 3000
+
+CMD ["npm", "start"]
+```
+
+Создаём образ контейнера:
+
+```bash
+docker build -t my-react-app-dev --target build .
+```
+
+Запускаем контейнер:
+
+```bash
+docker run -p 3000:3000 my-react-app-dev
+```
