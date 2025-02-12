@@ -59,5 +59,5 @@ docker build -t my-react-app-dev .
 Запускаем контейнер:
 
 ```bash
-docker run -d --name Frontend_todo_container 3000:3000 my-react-app-dev
+docker run -d --name Frontend_todo_container 3000:3000 my-react-app-dev:dev npm install --save-dev webpack
 ```
