@@ -2,7 +2,7 @@
 Сначала нужно создать образ контейнера
 
 ```bash
-docker build -d NAME_OF_IMAGE .
+docker build -t NAME_OF_IMAGE .
 ```
 
 Затем запустить этот образ (создать контейнер)
