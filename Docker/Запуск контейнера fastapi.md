@@ -53,7 +53,7 @@ CMD ["npm", "start"]
 Создаём образ контейнера:
 
 ```bash
-docker build -t my-react-app-dev --target build .
+docker build -t my-react-app-dev .
 ```
 
 Запускаем контейнер:
