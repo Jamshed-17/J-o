@@ -118,19 +118,9 @@
               "icon": "lucide-file",
               "title": "28.02 Задание"
             }
-          },
-          {
-            "id": "16602a8998f6a035",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
-            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -274,7 +264,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16602a8998f6a035",
+  "active": "2f2d6f9e4573adc3",
   "lastOpenFiles": [
     "Лабораторные/ТРПО 8 - тесты.md",
     "Без названия.canvas",
