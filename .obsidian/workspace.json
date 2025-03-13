@@ -132,9 +132,23 @@
               "icon": "lucide-file",
               "title": "Формула Бернулли"
             }
+          },
+          {
+            "id": "dbc2618c1d10208a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English/13-03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13-03"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -278,10 +292,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0741c6f31296c218",
+  "active": "dbc2618c1d10208a",
   "lastOpenFiles": [
-    "English/28.02 Задание.md",
     "Математика/ТВиМС/Формула Бернулли.md",
+    "English/13-03.md",
+    "English/28.02 Задание.md",
     "Лабораторные/ТРПО 8 - тесты.md",
     "Без названия.canvas",
     "Прочее/README.md.md",
@@ -309,7 +324,6 @@
     "python/ОАиП/Встроенные функции python.md",
     "Прочее/Мой стек.md",
     "ТРПО/Лаб 8 метрики Холстеда.md",
-    "ТРиЗБД/Учебный процесс.md",
     "python/Самостоятельно/FastAPI",
     "python/Самостоятельно/Base",
     "python/ПиРП",
