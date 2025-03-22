@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прочее/Docker.md",
+                "file": "urtk-journal.ru (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Docker"
+              "title": "urtk-journal.ru (2)"
             }
           }
         ]
@@ -165,9 +165,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b31d39e2495680d",
+  "active": "003683c358d1c86e",
   "lastOpenFiles": [
     "Прочее/Docker.md",
+    "urtk-journal.ru (2).md",
     "Учебная практика/Работа с C++ в Linux.md",
     "English/13-03.md",
     "Математика/ТВиМС/Формула Бернулли.md",
@@ -197,7 +198,6 @@
     "ОкФКС",
     "Экономика/Задачи.md",
     "python/Самостоятельно/Base/1. List - Список.md",
-    "python/ОАиП/Встроенные функции python.md",
     "python/Самостоятельно/FastAPI",
     "python/Самостоятельно/Base",
     "python/ПиРП",
