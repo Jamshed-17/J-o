@@ -11,10 +11,14 @@
             "id": "003683c358d1c86e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Прочее/Docker.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Docker"
             }
           }
         ]
@@ -161,8 +165,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "003683c358d1c86e",
+  "active": "8b31d39e2495680d",
   "lastOpenFiles": [
+    "Прочее/Docker.md",
     "Учебная практика/Работа с C++ в Linux.md",
     "English/13-03.md",
     "Математика/ТВиМС/Формула Бернулли.md",
@@ -193,7 +198,6 @@
     "Экономика/Задачи.md",
     "python/Самостоятельно/Base/1. List - Список.md",
     "python/ОАиП/Встроенные функции python.md",
-    "Прочее/Мой стек.md",
     "python/Самостоятельно/FastAPI",
     "python/Самостоятельно/Base",
     "python/ПиРП",
