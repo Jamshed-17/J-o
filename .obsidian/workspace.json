@@ -34,9 +34,39 @@
               "icon": "lucide-file",
               "title": "5. Array - Массив"
             }
+          },
+          {
+            "id": "95ecdc7521afaa28",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "1539cf6a83b678ea",
+            "type": "leaf",
+            "state": {
+              "type": "planner-release-notes",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Day Planner Release 0.27.0"
+            }
+          },
+          {
+            "id": "6779f755454acca1",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "март, 23–март, 25"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python/Самостоятельно/Base/5. Array - Массив.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для 5. Array - Массив"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -170,13 +199,23 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "39aa01254cd8183a",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 248.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,11 +228,19 @@
       "obsidian-git:Open Git source control": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "homework-manager:Open homework": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "8ab795aa23b5d8ef",
+  "active": "39aa01254cd8183a",
   "lastOpenFiles": [
+    "2025-03-24.md",
+    "2025-W12.md",
+    "2025-W12 1.md",
+    "Без названия.md",
+    "python/Самостоятельно/Base/5. Array - Массив.md",
     "python/Самостоятельно/Base/3. Dict - словари.md",
     "python/Самостоятельно/Base/1. List - Список.md",
     "ТРиЗБД/16-12 задание - БД онлайн магаз.md",
@@ -217,12 +264,7 @@
     "English/07.03.md",
     "English/19 - 12 Английский.md",
     "Git/Система контроля версий.md",
-    "Git/Организация работы команды в git.md",
-    "Git/Образ совместной разработки.md",
-    "Old/Акселератор Росатома/First.md",
     "Old/Акселератор Росатома",
-    "Областной квест, посвящённый Дню Защитника Отечества.md",
-    "Математика/Мат_Моделир/Математическое моделирование МДК.02.03.md",
     "РМП",
     "ОкФКС",
     "python/Самостоятельно/FastAPI",
