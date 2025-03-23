@@ -7,9 +7,9 @@
   "endLabel": "All done",
   "startHour": 6,
   "timelineDateFormat": "DD MM",
-  "centerNeedle": false,
+  "centerNeedle": true,
   "plannerHeading": "Задачи на сегодня",
-  "plannerHeadingLevel": 1,
+  "plannerHeadingLevel": 2,
   "timelineColored": false,
   "timelineStartColor": "#006466",
   "timelineEndColor": "#4d194d",
@@ -32,7 +32,7 @@
       "name": "",
       "email": "",
       "url": "",
-      "color": "#ffffff"
+      "color": "#13c331"
     }
   ],
   "colorOverrides": [],
