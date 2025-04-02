@@ -4,24 +4,71 @@
     "type": "split",
     "children": [
       {
-        "id": "a464e1114e8a9e8e",
+        "id": "23d998b7d5df6bb2",
         "type": "tabs",
         "children": [
           {
-            "id": "4b0a17148cb732a5",
+            "id": "e79b9535816074fa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ТРПО/Интеграция программных модулей.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Интеграция программных модулей"
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "15c97ee3d991591d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "d0f1b038b86fae49",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "987f855adafb5873",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "0448654d8246c2fd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
+            }
+          },
+          {
+            "id": "c3b014d3a5871a3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -158,14 +205,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4b0a17148cb732a5",
+  "active": "c3b014d3a5871a3b",
   "lastOpenFiles": [
+    "English/02-04.md",
+    "РМП/Классы. Null Safety.md",
+    "РМП/Массивы в Kotlin.md",
+    "ТРПО/Интеграция программных модулей.md",
     "ТРПО/ТРПО.md",
     "ТРиЗБД/16-12 задание - БД онлайн магаз.md",
     "ТРиЗБД/12-12 задание - запросы.md",
     "English/19 - 12 Английский.md",
     "Математика/Мат_Моделир/Лабораторная работа 2.md",
-    "English/02-04.md",
     "2025-03-24.md",
     "2025-03-23.md",
     "2025-W12.md",
@@ -181,11 +231,8 @@
     "Математика/ТВиМС/Формула Бернулли.md",
     "English/28.02 Задание.md",
     "Математика/Мат_Моделир/Самостоятельная работа 26.02.md",
-    "РМП/Классы. Null Safety.md",
-    "РМП/Массивы в Kotlin.md",
     "English/12-09 words translation.md",
     "python/Самостоятельно/Flask/1. Hello Flask!.md",
-    "python/ПиРП/include & import in Jinja2.md",
     "Учебная практика",
     "Без названия.canvas",
     "Old/Акселератор Росатома",
