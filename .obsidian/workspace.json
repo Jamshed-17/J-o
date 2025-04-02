@@ -4,61 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23d998b7d5df6bb2",
+        "id": "f6169fccd482bd2d",
         "type": "tabs",
         "children": [
           {
-            "id": "e79b9535816074fa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "15c97ee3d991591d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "d0f1b038b86fae49",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "987f855adafb5873",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "0448654d8246c2fd",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Новая вкладка"
-            }
-          },
-          {
-            "id": "c3b014d3a5871a3b",
+            "id": "4d8642af514b7f12",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -67,8 +17,7 @@
               "title": "Новая вкладка"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -205,8 +154,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c3b014d3a5871a3b",
+  "active": "4d8642af514b7f12",
   "lastOpenFiles": [
+    "Без названия.md",
     "English/02-04.md",
     "РМП/Классы. Null Safety.md",
     "РМП/Массивы в Kotlin.md",
@@ -232,7 +182,6 @@
     "English/28.02 Задание.md",
     "Математика/Мат_Моделир/Самостоятельная работа 26.02.md",
     "English/12-09 words translation.md",
-    "python/Самостоятельно/Flask/1. Hello Flask!.md",
     "Учебная практика",
     "Без названия.canvas",
     "Old/Акселератор Росатома",
