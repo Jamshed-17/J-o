@@ -46,26 +46,6 @@
             }
           },
           {
-            "id": "1539cf6a83b678ea",
-            "type": "leaf",
-            "state": {
-              "type": "planner-release-notes",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
-            "id": "6779f755454acca1",
-            "type": "leaf",
-            "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
-            }
-          },
-          {
             "id": "4392155d6cf78980",
             "type": "leaf",
             "state": {
@@ -80,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,8 +109,8 @@
             "state": {
               "type": "vertical-tabs",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Плагин больше не активен"
+              "icon": "vertical-tabs",
+              "title": "Vertical tabs"
             }
           }
         ]
@@ -223,10 +203,13 @@
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false
+      "markdown-importer:Импорт Markdown-файлов": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "4392155d6cf78980",
+  "active": "8b31d39e2495680d",
   "lastOpenFiles": [
     "English/02-04.md",
     "2025-03-24.md",
