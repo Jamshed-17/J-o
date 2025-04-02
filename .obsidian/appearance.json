@@ -1,5 +1,5 @@
 {
-  "accentColor": "#5797ff",
+  "accentColor": "#000000",
   "baseFontSize": 18,
   "cssTheme": "Things",
   "theme": "system",
@@ -7,5 +7,7 @@
   "baseFontSizeAction": true,
   "nativeMenus": true,
   "monospaceFontFamily": "JetBrains Mono NL",
-  "interfaceFontFamily": "Helvetica"
+  "interfaceFontFamily": "Helvetica",
+  "showViewHeader": true,
+  "showRibbon": false
 }
