@@ -1,7 +1,7 @@
 {
   "accentColor": "#5797ff",
   "baseFontSize": 18,
-  "cssTheme": "",
+  "cssTheme": "Things",
   "theme": "system",
   "textFontFamily": "JetBrains Mono,Inter",
   "baseFontSizeAction": true,
