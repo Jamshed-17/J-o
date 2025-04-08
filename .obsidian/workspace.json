@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "РМП/Без названия.md",
+                "file": "РМП/Введение в Jetpack Compose.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия"
+              "title": "Введение в Jetpack Compose"
             }
           }
         ],
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -187,10 +188,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b31d39e2495680d",
+  "active": "71fef3c3237724e8",
   "lastOpenFiles": [
     "Математика/Мат_Моделир/Задача о назначении Вариант 1.md",
-    "РМП/Без названия.md",
+    "РМП/Введение в Jetpack Compose.md",
     "Математика/Мат_Моделир/Отчёт о решении транспортной задачи.md",
     "Математика/Мат_Моделир/Транспортная задача.md",
     "Математика/Мат_Моделир/Самостоятельная работа 26.02.md",
