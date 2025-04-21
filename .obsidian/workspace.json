@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "РМП/Корутины в Kotlin. Введение.md",
+                "file": "РМП/Корутины в Kotlin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Корутины в Kotlin. Введение"
+              "title": "Корутины в Kotlin"
             }
           }
         ],
@@ -201,10 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6f9b36d49133e46",
+  "active": "8b31d39e2495680d",
   "lastOpenFiles": [
-    "Без названия.md",
     "РМП/Корутины в Kotlin. Введение.md",
+    "РМП/Корутины в Kotlin.md",
+    "Без названия.md",
     "Pasted image 20250411141253.png",
     "РМП/Введение в Jetpack Compose.md",
     "Математика/Мат_Моделир/Задача о назначении Вариант 1.md",
@@ -229,7 +230,6 @@
     "python/Самостоятельно/Base/3. Dict - словари.md",
     "python/Самостоятельно/Base/1. List - Список.md",
     "ПОПД (Право)/Правонарушения.md",
-    "Прочее/Docker.md",
     "Учебная практика",
     "Без названия.canvas",
     "Old/Акселератор Росатома",
