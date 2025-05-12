@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/21-04.md",
+                "file": "Учебная практика/Работа с C++ в Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21-04"
+              "title": "Работа с C++ в Linux"
             }
           }
         ]
@@ -158,12 +158,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c6f9b36d49133e46",
+  "active": "8b31d39e2495680d",
   "lastOpenFiles": [
+    "Old/СП (C++) МДК 01.04/C++ 1.md",
+    "English/21-04.md",
     "РМП/Введение в Jetpack Compose.md",
     "Математика/Мат_Моделир/Транспортная задача.md",
     "Математика/Мат_Моделир/Задача о назначении Вариант 1.md",
-    "English/21-04.md",
     "English/02-04.md",
     "РМП/Корутины в Kotlin.md",
     "РМП/Корутины в Kotlin. Введение.md",
@@ -186,7 +187,6 @@
     "2025-W12 1.md",
     "python/Самостоятельно/Base/5. Array - Массив.md",
     "python/Самостоятельно/Base/3. Dict - словари.md",
-    "python/Самостоятельно/Base/1. List - Список.md",
     "Учебная практика",
     "Без названия.canvas",
     "Old/Акселератор Росатома",
