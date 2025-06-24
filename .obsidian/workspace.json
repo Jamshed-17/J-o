@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Прочее/Праздник лучших.md",
+                "file": "Прочее/Слёт лучших.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Праздник лучших"
+              "title": "Слёт лучших"
             }
           }
         ],
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -176,7 +177,7 @@
   "active": "85cbbf1462b7a42f",
   "lastOpenFiles": [
     "Студенты.md",
-    "Прочее/Праздник лучших.md",
+    "Прочее/Слёт лучших.md",
     "python/Самостоятельно/Base/x. Регулярные выражения.md",
     "Вар3.md",
     "Алгоритмы/Проект - алгоритмы сортировки.md",
