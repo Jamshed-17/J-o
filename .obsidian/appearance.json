@@ -2,7 +2,7 @@
   "accentColor": "#1abc9c",
   "baseFontSize": 18,
   "cssTheme": "Things",
-  "theme": "obsidian",
+  "theme": "system",
   "textFontFamily": "JetBrains Mono,Inter",
   "baseFontSizeAction": true,
   "nativeMenus": true,

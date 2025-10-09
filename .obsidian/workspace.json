@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "Прочее/🎮 Мастер-класс «Создание Телеграм-бота».md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "74f26509ea9f1fbc",
