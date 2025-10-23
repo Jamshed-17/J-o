@@ -52,6 +52,47 @@ single quote — одинарная кавычка
     
 15. **variable-length arguments** — аргументы переменной длины (arguments of variable length)
 
+
+
+
+
+
+16. **binary**
+    
+17. **colon**
+    
+18. **default arguments**
+    
+19. **defining**
+    
+20. **docstring**
+    
+21. **expression**
+    
+22. **global scope**
+    
+23. **index**
+    
+24. **keyword arguments**
+    
+25. **local scope**
+    
+26. **resource**
+    
+27. **return**
+    
+28. **scope of variable**
+    
+29. **server-side**
+    
+30. **variable-length arguments**
+
+
+
+
+
+
+
 ----
 
 1. **box-shadow** — тень блока
