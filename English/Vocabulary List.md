@@ -1,4 +1,4 @@
-## 1
+## 1 [x]
 
 attribute — атрибут (определяющий признак)  
 backslash — обратная косая черта  
@@ -21,7 +21,7 @@ empty string - пустая строка
 multiple ranges — множественные диапазоны  
 single quote — одинарная кавычка
 
-## 2
+## 2 [x]
 ----
 
 1. **binary** — двоичное представление, двоичная система (binary representation, binary system)
@@ -166,3 +166,5 @@ single quote — одинарная кавычка
 17. **saturation** — насыщенность (цвета)
     
 18. **word-wrap** — перенос слов
+
+
