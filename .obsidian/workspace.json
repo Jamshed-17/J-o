@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b9b5a6dc7ef9285e",
+        "id": "45fa1ab2df06a452",
         "type": "tabs",
         "children": [
           {
-            "id": "4c0e0d7d0c768951",
+            "id": "d01b33f99fb5a084",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Old/Git/Система контроля версий.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Система контроля версий"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -84,7 +80,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Old/Git/Система контроля версий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Система контроля версий"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -130,13 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Old/Git/Система контроля версий.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Система контроля версий"
+              "title": "Структура"
             }
           }
         ],
@@ -159,11 +153,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b31d39e2495680d",
+  "active": "d01b33f99fb5a084",
   "lastOpenFiles": [
+    "Old/Философия/Философия эпохи нового времени.md",
+    "Без названия.base",
+    "Old/Git/Система контроля версий.md",
     "Old/Git/Образ совместной разработки.md",
     "English/19 - 12 Английский.md",
-    "Без названия.base",
     "Old/python/Самостоятельно/Base/x. Регулярные выражения.md",
     "Математика/ДМЭМЛ/Без названия.md",
     "Old/python/Самостоятельно/Base/5. Array - Массив.md",
@@ -171,7 +167,6 @@
     "Old/python/Самостоятельно/Base/2. Tuple - кортежи.md",
     "Old/python/Самостоятельно/Base/6. Bytes - байты.md",
     "Old/Брошура.md",
-    "Old/Git/Система контроля версий.md",
     "Old/Git/Организация работы команды в git.md",
     "Old/ОкФКС/Качество ПО, Надежность, Методы РАСЧЕТА надёжности КОМПЬЮТЕРНЫХ СИСТЕМ И КОМПЛЕКСОВ.md",
     "Old/ПОПД (Право)/ПОПД.md",
@@ -187,7 +182,6 @@
     "Математика/ЧисловыеМетоды/Лабораторная работа №4.md",
     "Математика/ЧисловыеМетоды/Лабораторная работа №3. Решение системы линейных уравнений прямыми методами.md",
     "Менеджмент/Функции управления в менеджменте.md",
-    "English/Vocabulary List.md",
     "Прочее/16_UTK.png",
     "Pasted image 20250909182058.png",
     "Менеджмент",
