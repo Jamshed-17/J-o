@@ -11,10 +11,14 @@
             "id": "d01b33f99fb5a084",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Прикладное программиование/Модели данных.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Модели данных"
             }
           }
         ]
@@ -153,7 +157,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d01b33f99fb5a084",
+  "active": "8b31d39e2495680d",
   "lastOpenFiles": [
     "Old/Философия/Философия эпохи нового времени.md",
     "Без названия.base",
