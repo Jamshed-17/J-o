@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Менеджмент/Функции управления в менеджменте.md",
+                "file": "А/Акселератор....md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Функции управления в менеджменте"
+              "title": "Акселератор..."
             }
           }
         ]
@@ -157,8 +157,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b31d39e2495680d",
+  "active": "ecac930bccb599c6",
   "lastOpenFiles": [
+    "Менеджмент/Функции управления в менеджменте.md",
+    "А/Акселератор....md",
     "А",
     "English/Vocabulary List.md",
     "English/12-09 words translation.md",
@@ -185,7 +187,6 @@
     "Old/python/Самостоятельно/Base/x. Регулярные выражения.md",
     "Математика/ДМЭМЛ/Без названия.md",
     "Old/python/Самостоятельно/Base/5. Array - Массив.md",
-    "Old/python/Самостоятельно/Base/4.Set - Множества.md",
     "Прочее/16_UTK.png",
     "Pasted image 20250909182058.png",
     "Менеджмент",
@@ -198,7 +199,6 @@
     "Pasted image 20250411141253.png",
     "Old/Учебная практика",
     "Без названия.canvas",
-    "Old/Акселератор Росатома",
     "Diagram.svg",
     "Прочее/Картинки/Diagram.svg",
     "Учёба/Картинки/Рисунок2.png",
