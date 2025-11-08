@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English/Vocabulary List.md",
+                "file": "Менеджмент/Функции управления в менеджменте.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vocabulary List"
+              "title": "Функции управления в менеджменте"
             }
           }
         ]
@@ -159,6 +159,7 @@
   },
   "active": "ecac930bccb599c6",
   "lastOpenFiles": [
+    "English/Vocabulary List.md",
     "English/12-09 words translation.md",
     "ОБП/Проверочная работа 1.md",
     "Old/Алгоритмы/Теория Big O.md",
@@ -185,7 +186,6 @@
     "Old/python/Самостоятельно/Base/5. Array - Массив.md",
     "Old/python/Самостоятельно/Base/4.Set - Множества.md",
     "Old/python/Самостоятельно/Base/2. Tuple - кортежи.md",
-    "Old/python/Самостоятельно/Base/6. Bytes - байты.md",
     "Прочее/16_UTK.png",
     "Pasted image 20250909182058.png",
     "Менеджмент",
