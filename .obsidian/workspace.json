@@ -4,67 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "294668b82a37aeea",
+        "id": "2a3f61d52973e005",
         "type": "tabs",
         "children": [
           {
-            "id": "55d388af37a08b25",
+            "id": "c893e79a84bbaca1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtomSkills26/Проекты на выбор.md",
+                "file": "AtomSkills26/АРШИН.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Проекты на выбор"
-            }
-          },
-          {
-            "id": "50fb1ba6ca19e3ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ОБП/Практическая работа №5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Практическая работа №5"
-            }
-          },
-          {
-            "id": "0837d8b0211f5ff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/18-11.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "18-11"
-            }
-          },
-          {
-            "id": "19b394bc58307b73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "English/02-12-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02-12-25"
+              "title": "АРШИН"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -111,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -201,10 +157,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "19b394bc58307b73",
+  "active": "c893e79a84bbaca1",
   "lastOpenFiles": [
-    "English/18-11.md",
     "English/02-12-25.md",
+    "English/18-11.md",
     "English/23.10.2025.md",
     "ССиТД/Тест.md",
     "ОБП/Практическая работа №5.md",
