@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtomSkills26/АРШИН.md",
+                "file": "Прочее/Курсач.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "АРШИН"
+              "title": "Курсач"
             }
           }
         ]
@@ -159,6 +159,8 @@
   },
   "active": "c893e79a84bbaca1",
   "lastOpenFiles": [
+    "AtomSkills26/АРШИН.md",
+    "Прочее/Курсач.md",
     "English/02-12-25.md",
     "English/18-11.md",
     "English/23.10.2025.md",
@@ -169,7 +171,6 @@
     "ОБП/Практическая работа №4.md",
     "ОБП/Практическая работа №3.md",
     "ОБП/Практическая работа №2.md",
-    "AtomSkills26/АРШИН.md",
     "ОБП/Практическая работа №1.md",
     "ОБП/Вступительная лекция.md",
     "AtomSkills26/Проекты на выбор.md",
@@ -188,7 +189,6 @@
     "РМП/Корутины в Kotlin. Введение.md",
     "РМП/Введение в Jetpack Compose.md",
     "РМП/Классы. Null Safety.md",
-    "Математика/ДМЭМЛ/Без названия.md",
     "А",
     "Без названия.base",
     "Прочее/16_UTK.png",
