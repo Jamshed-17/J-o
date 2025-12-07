@@ -153,8 +153,7 @@
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
       "command-palette:Открыть палитру команд": false,
-      "markdown-importer:Импорт Markdown-файлов": false,
-      "obsidian-git:Open Git source control": false
+      "markdown-importer:Импорт Markdown-файлов": false
     }
   },
   "active": "c893e79a84bbaca1",
