@@ -11,10 +11,14 @@
             "id": "23cda459e617e4b8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Без названия.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Без названия"
             }
           }
         ]
@@ -153,8 +157,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b31d39e2495680d",
+  "active": "23cda459e617e4b8",
   "lastOpenFiles": [
+    "Без названия.md",
+    "А/Акселератор....md",
     "Pasted image 20251130165219.png",
     "Прочее/Курсач3.md",
     "Прикладное программиование/Самостоятельная аэрофлот.md",
@@ -180,7 +186,6 @@
     "AtomSkills26/АРШИН.md",
     "English/02-12-25.md",
     "English/18-11.md",
-    "English/23.10.2025.md",
     "ОБП/ОБП_Акрамов.pdf",
     "ОБП/lu69234c7yyp.tmp",
     "AtomSkills26",
