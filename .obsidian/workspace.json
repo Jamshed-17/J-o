@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AtomSkills26/АРШИН.md",
+                "file": "AtomSkills26/Проекты на выбор.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "АРШИН"
+              "title": "Проекты на выбор"
             }
           }
         ]
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -160,8 +159,8 @@
   },
   "active": "23cda459e617e4b8",
   "lastOpenFiles": [
-    "AtomSkills26/Проекты на выбор.md",
     "AtomSkills26/АРШИН.md",
+    "AtomSkills26/Проекты на выбор.md",
     "Pasted image 20251130165219.png",
     "html/1.md",
     "html",
