@@ -68,7 +68,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -159,6 +160,8 @@
   },
   "active": "23cda459e617e4b8",
   "lastOpenFiles": [
+    "AtomSkills26/Проекты на выбор.md",
+    "AtomSkills26/АРШИН.md",
     "Pasted image 20251130165219.png",
     "html/1.md",
     "html",
@@ -185,7 +188,6 @@
     "Задание 5 по ПрикПрограмм.md",
     "Задание 4 по ПрикПрограмм.md",
     "Задание 3 по ПрикПрограмм.md",
-    "Прочее/Курсач.md",
     "ОБП/ОБП_Акрамов.pdf",
     "ОБП/lu69234c7yyp.tmp",
     "AtomSkills26",
