@@ -170,34 +170,24 @@ single quote — одинарная кавычка
 
 ## 4
 ----
-1. **ascending** - по возрастанию
-2. **cell** - ячейка
-3. **column** - столбец
+1. **ascedning** - по возрастанию
+2. **cell(s)** - ячейка
+3. **column(s)** - столбец
 4. **descending** - по убыванию
 5. **dublicate** - создание копии
 6. **formula bar(box)** - панель формул
-7. **label** - метка
-8. **speadsheet program** - программа использования электронной таблицы
-9. **tab** - вкладка
-
-ascedning - по возрастанию
-cell(s) - ячейка
-column(s) - столбец
-descending - по убыванию
-dublicate - создание копии
-formula bar(box) - панель формул
-label(s) - метка
-tab(s) - вкладка(и)
-worksheet(s) - лист(ы)
-attachment - вложение
-backup - резервное копирование
-conversion - преобразование
-extension - расширение у названия файла
-folder - папка
-malware - вредоносное ПО
-password protect - защита паролем
-secondary storage - вторичное хранилище
-sub-folder - вложенная папка
+7. **label(s)** - метка
+8. **tab(s)** - вкладка(и)
+9. **worksheet(s)** - лист(ы)
+10. **attachment** - вложение
+11. **backup** - резервное копирование
+12. **conversion** - преобразование
+13. extension - расширение у названия файла
+14. folder - папка
+15. malware - вредоносное ПО
+16. password protect - защита паролем
+17. secondary storage - вторичное хранилище
+18. sub-folder - вложенная папка
 
 
 
