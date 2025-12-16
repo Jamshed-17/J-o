@@ -128,7 +128,7 @@ single quote — одинарная кавычка
 
 
 
-## 3
+## 3 [x]
 ----
 
 1. **box-shadow** — тень блока
@@ -179,3 +179,59 @@ single quote — одинарная кавычка
 7. **label** - метка
 8. **speadsheet program** - программа использования электронной таблицы
 9. **tab** - вкладка
+
+ascedning - по возрастанию
+cell(s) - ячейка
+column(s) - столбец
+descending - по убыванию
+dublicate - создание копии
+formula bar(box) - панель формул
+label(s) - метка
+tab(s) - вкладка(и)
+worksheet(s) - лист(ы)
+attachment - вложение
+backup - резервное копирование
+conversion - преобразование
+extension - расширение у названия файла
+folder - папка
+malware - вредоносное ПО
+password protect - защита паролем
+secondary storage - вторичное хранилище
+sub-folder - вложенная папка
+
+
+
+## 5 [x]
+---
+
+audio file - звуковой файл
+data cable - цифровой кабель (кабель для передачи данных)
+dictaphone(s) - диктофон
+dip(s) - провал(ы) громкости
+display - выводить данные на экран; отображать
+file format - формат файла
+flash video - флэш-видеоконтент (формат файла-контейнера)
+memory card - карта памяти
+memory card reader - устройство для чтения карт памяти
+playback - воспроизведение
+podcast - подкаст (оцифрованная запись)
+shared - поделиться; совместно использовать
+source of input - источник входных данных
+streaming - потоковое (потоковый)
+tablet - планшет
+timeline - шкала времени
+transfer - передача
+trim - обрезка
+user-generated - инициированный пользователем
+video card - видеокарта
+webcam - веб-камера
+digital - цифровой
+color adjustment - цветокалибровка
+crop - обрезать
+detailed design plans - план детальной планировки
+drawing packages - пакет чертежей
+freehand drawing - рисунок от руки
+layer(s) - разбивка картинки на несколько элементов
+scalable - масштабируемый
+technical drawings - технический чертёж(рисунок); техническое рисование
+zoom - изменение масштаба изображения
