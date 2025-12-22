@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "72cf23b39623ef0e",
+        "id": "84b7c995e071cc90",
         "type": "tabs",
         "children": [
           {
-            "id": "23cda459e617e4b8",
+            "id": "c5b8bf4daafc82de",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -68,7 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
+    "width": 200,
     "collapsed": true
   },
   "right": {
@@ -158,10 +158,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23cda459e617e4b8",
+  "active": "c5b8bf4daafc82de",
   "lastOpenFiles": [
-    "html/План.md",
     "РМП/Экзамен.md",
+    "html/План.md",
     "html/1.md",
     "Прочее/Pasted image 20251130165219.png",
     "Прикладное программиование/11_Поддержка формата XML.md",
