@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Диплом/ТЗ/ТЗ УСВ 001.md",
+                "file": "Прочее/Вопросы день студента викторина.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ТЗ УСВ 001"
+              "title": "Вопросы день студента викторина"
+            }
+          },
+          {
+            "id": "306a0b56d49927fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Прочее/Вопросы день студента викторина.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вопросы день студента викторина"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -157,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "87c328797d756beb",
+  "active": "306a0b56d49927fd",
   "lastOpenFiles": [
-    "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",
     "Диплом/ТЗ/ТЗ УСВ 001.md",
+    "Прочее/Вопросы день студента викторина.md",
+    "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",
     "Диплом/ТЗ/Pasted image 20260117062944.png",
     "УП-11/1.md",
     "Диплом/ТЗ",
