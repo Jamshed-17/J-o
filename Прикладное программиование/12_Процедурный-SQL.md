@@ -147,6 +147,210 @@ RETURNING ID INTO :NEW_ID;
 - **Удаление:** `DROP TRIGGER имя_триггера;`
     
 
----
+# Лабораторная работа №5
 
-Хотите, чтобы я подготовил для вас практический пример кода, который объединяет все эти элементы (например, процедуру с генератором, курсором и обработкой исключений)?
+```mysql
+-- ==========================================================
+-- 1. СОЗДАНИЕ СТРУКТУРЫ УЧЕБНОЙ БД
+-- ==========================================================
+CREATE DATABASE IF NOT EXISTS LaboratoryWork5;
+USE LaboratoryWork5;
+
+-- Таблица улиц
+CREATE TABLE Streets (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100)
+);
+
+-- Таблица абонентов
+CREATE TABLE Abonents (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    fio VARCHAR(100),
+    account_number VARCHAR(8),
+    street_id INT,
+    house_home VARCHAR(10),
+    flat_home VARCHAR(10),
+    phone VARCHAR(20),
+    FOREIGN KEY (street_id) REFERENCES Streets(id)
+);
+
+-- Таблица услуг
+CREATE TABLE Services (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(50)
+);
+
+-- Таблица начислений
+CREATE TABLE Accruals (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    abonent_id INT,
+    service_id INT,
+    amount DECIMAL(15, 2),
+    date_accrual DATE,
+    FOREIGN KEY (abonent_id) REFERENCES Abonents(id),
+    FOREIGN KEY (service_id) REFERENCES Services(id)
+);
+
+-- Таблица мастеров
+CREATE TABLE Masters (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100)
+);
+
+-- Таблица неисправностей
+CREATE TABLE Faults (
+    id INT PRIMARY KEY AUTO_INCREMENT,
+    name VARCHAR(100)
+);
+
+-- Таблица ремонтных заявок
+CREATE TABLE Requests (
+    id INT PRIMARY KEY,
+    abonent_id INT,
+    master_id INT,
+    date_in DATE,
+    date_out DATE,
+    fault_id INT,
+    FOREIGN KEY (abonent_id) REFERENCES Abonents(id),
+    FOREIGN KEY (master_id) REFERENCES Masters(id),
+    FOREIGN KEY (fault_id) REFERENCES Faults(id)
+);
+
+-- Таблица фактов оплаты
+CREATE TABLE Payments (
+    id INT PRIMARY KEY,
+    abonent_id INT,
+    amount DECIMAL(15, 2),
+    pay_date DATE,
+    FOREIGN KEY (abonent_id) REFERENCES Abonents(id)
+);
+
+-- ==========================================================
+-- ЗАПОЛНЕНИЕ ТЕСТОВЫМИ ДАННЫМИ (для корректной работы запросов)
+-- ==========================================================
+INSERT INTO Streets (name) VALUES ('ул. Ленина'), ('ул. Мира');
+INSERT INTO Services (name) VALUES ('Газоснабжение'), ('Водоотведение');
+INSERT INTO Masters (name) VALUES ('Петров П.П.');
+INSERT INTO Faults (name) VALUES ('Утечка'), ('Засор');
+
+INSERT INTO Abonents (fio, account_number, street_id, house_home, flat_home) 
+VALUES ('Мищенко Е. В.', '012345', 1, '10', '5'),
+       ('Иванов И.И.', '015527', 1, '12', '44'),
+       ('Сидоров С.С.', '999999', 2, '1', '1');
+
+INSERT INTO Accruals (abonent_id, service_id, amount, date_accrual)
+VALUES (1, 1, 500.00, '2018-12-15'), 
+       (2, 1, 300.00, '2023-05-10');
+
+INSERT INTO Payments (id, abonent_id, amount, pay_date)
+VALUES (1, 1, 600.00, '2023-05-20'),
+       (2, 2, 400.00, '2023-05-21');
+
+-- ==========================================================
+-- ВЫПОЛНЕНИЕ ЛАБОРАТОРНОЙ РАБОТЫ №5
+-- ==========================================================
+
+-- 2. Создание таблицы Pattern
+CREATE TABLE Pattern (
+    Fint INTEGER,
+    Fchar30 VARCHAR(30),
+    Fchar40 VARCHAR(40),
+    Fchar8 VARCHAR(8),
+    Fnumeric NUMERIC(18,4),
+    Fdate DATE
+);
+
+-- 3.1 Информация о средних начислениях по месяцам
+INSERT INTO Pattern (Fchar30, Fnumeric)
+SELECT 
+    DATE_FORMAT(date_accrual, '%m.%Y'), 
+    AVG(amount)
+FROM Accruals
+WHERE YEAR(date_accrual) = 2023
+GROUP BY DATE_FORMAT(date_accrual, '%m.%Y');
+
+-- 3.2 Информация об абонентах на выбранной улице
+INSERT INTO Pattern (Fchar30, Fchar40)
+SELECT 
+    a.fio, 
+    CONCAT(a.house_home, ' ', a.flat_home)
+FROM Abonents a
+JOIN Streets s ON a.street_id = s.id
+WHERE s.name = 'ул. Ленина';
+
+-- 3.3 Информация о заявках и их абонентах
+-- Предположим, для теста сначала добавим одну заявку
+INSERT INTO Requests (id, abonent_id, master_id, date_in, fault_id) VALUES (1, 1, 1, '2023-01-01', 1);
+
+INSERT INTO Pattern (Fnumeric, Fdate, Fchar30, Fchar8, Fchar40)
+SELECT 
+    r.id, r.date_in, a.fio, a.account_number, s.name
+FROM Requests r
+JOIN Abonents a ON r.abonent_id = a.id
+JOIN Streets s ON a.street_id = s.id
+WHERE s.name = 'ул. Ленина';
+
+-- 4. Однострочный INSERT новой заявки
+INSERT INTO Requests (id, abonent_id, master_id, date_in, fault_id, date_out)
+SELECT 
+    (SELECT IFNULL(MAX(id), 0) + 1 FROM Requests), 
+    (SELECT id FROM Abonents WHERE fio = 'Иванов И.И.' LIMIT 1),
+    (SELECT id FROM Masters LIMIT 1),
+    DATE_SUB(CURDATE(), INTERVAL 1 MONTH),
+    (SELECT id FROM Faults LIMIT 1),
+    NULL;
+
+-- 5. Установить дату выполнения для новой заявки
+UPDATE Requests 
+SET date_out = CURDATE() 
+WHERE date_out IS NULL AND abonent_id = (SELECT id FROM Abonents WHERE fio = 'Иванов И.И.' LIMIT 1);
+
+-- 6. Добавить новый факт оплаты
+INSERT INTO Payments (id, abonent_id, amount, pay_date)
+SELECT 
+    (SELECT IFNULL(MAX(id), 0) + 1 FROM Payments),
+    (SELECT id FROM Abonents LIMIT 1),
+    700.00,
+    CURDATE();
+
+-- 7. Изменить дату оплаты на 10-е число след. месяца
+UPDATE Payments 
+SET pay_date = DATE_ADD(DATE_FORMAT(pay_date, '%Y-%m-10'), INTERVAL 1 MONTH)
+WHERE id = (SELECT max_id FROM (SELECT MAX(id) AS max_id FROM Payments) AS t);
+
+-- ==========================================================
+-- ВАРИАНТ 1
+-- ==========================================================
+
+-- 1. Увеличить на 50 руб. начисления для Мищенко Е. В.
+UPDATE Accruals 
+SET amount = amount + 50 
+WHERE abonent_id = (SELECT id FROM Abonents WHERE fio = 'Мищенко Е. В.');
+
+-- 2. Удалить все факты оплаты с суммой менее 550 руб.
+DELETE FROM Payments 
+WHERE amount < 550;
+
+-- 3. Изменить номер телефона абонента с л/с 015527
+UPDATE Abonents 
+SET phone = '8-911-000-00-00' 
+WHERE account_number = '015527';
+
+-- 4. Удалить информацию о начислениях по услуге Газоснабжение за декабрь 2018 г.
+DELETE FROM Accruals 
+WHERE service_id = (SELECT id FROM Services WHERE name = 'Газоснабжение')
+  AND date_accrual BETWEEN '2018-12-01' AND '2018-12-31';
+
+-- 5. Для абонентов с минимальной оплатой уменьшить начисления на 10%
+UPDATE Accruals 
+SET amount = amount * 0.9 
+WHERE abonent_id IN (
+    SELECT abonent_id FROM (
+        SELECT abonent_id FROM Payments WHERE amount = (SELECT MIN(amount) FROM Payments)
+    ) AS temp
+);
+
+-- Проверка результата
+SELECT * FROM Pattern;
+SELECT * FROM Accruals;
+```
