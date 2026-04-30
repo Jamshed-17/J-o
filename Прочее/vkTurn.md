@@ -1,0 +1,1 @@
+https://vk.com/call/join/chFWa_PaRxlsPeGhGVru6iQ65IU6mGPlfKq1TC3bSgQ
