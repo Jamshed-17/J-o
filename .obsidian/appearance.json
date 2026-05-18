@@ -1,6 +1,6 @@
 {
   "accentColor": "#1abc9c",
-  "baseFontSize": 13,
+  "baseFontSize": 16,
   "cssTheme": "Things",
   "theme": "system",
   "textFontFamily": "JetBrains Mono,Inter",
@@ -9,5 +9,5 @@
   "monospaceFontFamily": "JetBrains Mono NL",
   "interfaceFontFamily": "Helvetica",
   "showViewHeader": true,
-  "showRibbon": false
+  "showRibbon": true
 }
