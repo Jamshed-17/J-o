@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university time/Подготовка к вступительным/Информатика.md",
+                "file": "university time/Подготовка к вступительным/Русский язык.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Информатика"
+              "title": "Русский язык"
             }
           }
         ],
@@ -172,11 +172,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9e4d99a87f4da558",
+  "active": "8b31d39e2495680d",
   "lastOpenFiles": [
+    "university time/Подготовка к вступительным/Информатика.md",
+    "university time/Подготовка к вступительным/Русский язык.md",
     "university time/Подготовка к вступительным",
     "college time/Old/Прочее/ДемЭкзамен.md",
-    "university time/Подготовка к вступительным/Информатика.md",
     "university time",
     "college time",
     "college time/Old/Прочее/Экзамен 04.05.md",
@@ -214,7 +215,6 @@
     "college time/Old/УП-11",
     "college time/Old/Прочее/Pasted image 20251130165219.png",
     "college time/Old/html",
-    "college time/Old/ОБП/ОБП_Акрамов.pdf",
     "college time/Old/Прочее/16_UTK.png",
     "Pasted image 20250909182058.png",
     "Pasted image 20250411141253.png",
