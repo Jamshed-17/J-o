@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university time/Подготовка к вступительным/Русский язык.md",
+                "file": "university time/Подготовка к вступительным/Математика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Русский язык"
+              "title": "Математика"
             }
           }
         ],
@@ -172,10 +172,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b31d39e2495680d",
+  "active": "9e4d99a87f4da558",
   "lastOpenFiles": [
-    "university time/Подготовка к вступительным/Информатика.md",
     "university time/Подготовка к вступительным/Русский язык.md",
+    "university time/Подготовка к вступительным/Математика.md",
+    "university time/Подготовка к вступительным/Информатика.md",
     "university time/Подготовка к вступительным",
     "college time/Old/Прочее/ДемЭкзамен.md",
     "university time",
@@ -202,7 +203,6 @@
     "college time/Old/Прикладное программиование/4_Реляционная модель данных.md",
     "college time/Old/Прикладное программиование/3_Модели данных и модели баз данных.md",
     "college time/Old/Прочее/ПроизПрак/Паскедов.md",
-    "college time/Old/Диплом/Заметка.md",
     "college time/Old/Прочее/ПроизПрак",
     "college time/Old/Pasted image 20260419191459.png",
     "college time/Old/Pasted image 20260419191444.png",
