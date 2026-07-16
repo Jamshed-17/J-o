@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university time/Подготовка к вступительным/Математика.md",
+                "file": "university time/Подготовка к вступительным/Русский язык.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Математика"
+              "title": "Русский язык"
             }
           }
         ],
@@ -174,9 +174,9 @@
   },
   "active": "9e4d99a87f4da558",
   "lastOpenFiles": [
-    "university time/Подготовка к вступительным/Русский язык.md",
-    "university time/Подготовка к вступительным/Математика.md",
     "university time/Подготовка к вступительным/Информатика.md",
+    "university time/Подготовка к вступительным/Математика.md",
+    "university time/Подготовка к вступительным/Русский язык.md",
     "university time/Подготовка к вступительным",
     "college time/Old/Прочее/ДемЭкзамен.md",
     "university time",
