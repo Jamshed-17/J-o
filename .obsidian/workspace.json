@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 419.5
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -171,9 +170,9 @@
   "active": "454c2b77215e88e3",
   "lastOpenFiles": [
     "md math help.md",
-    "university time/Подготовка к вступительным/Математика.md",
     "university time/Подготовка к вступительным/Русский язык.md",
     "university time/Подготовка к вступительным/Информатика.md",
+    "university time/Подготовка к вступительным/Математика.md",
     "college time/Old/РПМ/Cs/Жизненный цикл ПО.md",
     "Без названия 3.base",
     "Без названия 2.base",
