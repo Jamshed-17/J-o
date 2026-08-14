@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university time/Подготовка к вступительным/Информатика.md",
+                "file": "work/Сим карты/База.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Информатика"
+              "title": "База"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -68,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5,
-    "collapsed": true
+    "width": 419.5
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -170,10 +171,17 @@
   },
   "active": "454c2b77215e88e3",
   "lastOpenFiles": [
+    "work/Основная информация.md",
+    "work/Сим карты/База.md",
+    "work/Пароли",
+    "work/Андромеда",
+    "work/1С",
+    "work/Сим карты",
+    "university time/Подготовка к вступительным/Информатика.md",
+    "work",
     "university time/Подготовка к вступительным/Математика.md",
     "md math help.md",
     "university time/Подготовка к вступительным/Русский язык.md",
-    "university time/Подготовка к вступительным/Информатика.md",
     "college time/Old/РПМ/Cs/Жизненный цикл ПО.md",
     "Без названия 3.base",
     "Без названия 2.base",
@@ -181,8 +189,6 @@
     "Без названия.base",
     "university time/Подготовка к вступительным",
     "college time/Old/Прочее/ДемЭкзамен.md",
-    "university time",
-    "college time",
     "college time/Old/Прочее/Экзамен 04.05.md",
     "college time/Old/Прочее/Преподы дискотека 2026.md",
     "college time/Old/Диплом/ТЗ/ТЗ УСВ 001.md",
@@ -201,15 +207,10 @@
     "college time/Old/Прикладное программиование/8_Транзакции.md",
     "college time/Old/Прикладное программиование/7_Основы языка SQL.md",
     "college time/Old/Прикладное программиование/6_Инфологическое проектирование баз данных. ER-диаграммы.md",
-    "college time/Old/Прикладное программиование/5_Нормализация реляционных БД.md",
-    "college time/Old/Прикладное программиование/4_Реляционная модель данных.md",
-    "college time/Old/Прочее/ПроизПрак",
     "college time/Old/Pasted image 20260419191459.png",
     "college time/Old/Pasted image 20260419191444.png",
     "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",
     "Диплом/ТЗ/Pasted image 20260117062944.png",
-    "college time/Old/Диплом/ТЗ",
-    "Без названия 1",
     "college time/Old/Прочее/Pasted image 20251130165219.png",
     "college time/Old/Прочее/16_UTK.png",
     "Pasted image 20250909182058.png",
