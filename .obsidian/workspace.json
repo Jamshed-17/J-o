@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Сим карты/База.md",
+                "file": "work/Программы/Андромеда/База.md",
                 "mode": "source",
                 "source": false
               },
@@ -183,11 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b31d39e2495680d",
+  "active": "454c2b77215e88e3",
   "lastOpenFiles": [
+    "work/Сим карты/База.md",
+    "work/Программы/Андромеда/База.md",
     "work/Программы/ABS",
     "work/Программы/Без названия.md",
-    "work/Сим карты/База.md",
     "work/Программы/iVMS",
     "work/Программы/Fobos",
     "work/Сим карты/Активация сим карт.md",
@@ -210,7 +211,6 @@
     "university time/Подготовка к вступительным/Информатика.md",
     "work/Пароли",
     "work/Программы/Андромеда",
-    "work/1С",
     "md math help.md",
     "college time/Old/РПМ/Cs/Жизненный цикл ПО.md",
     "college time/Old/Прочее/ДемЭкзамен.md",
