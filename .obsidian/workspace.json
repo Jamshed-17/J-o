@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/1С/Если слетела лицензия.md",
+                "file": "work/Основная информация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Если слетела лицензия"
+              "title": "Основная информация"
             }
           }
         ]
@@ -171,8 +171,8 @@
   },
   "active": "454c2b77215e88e3",
   "lastOpenFiles": [
-    "work/Сим карты/Списание сим карт.md",
     "work/1С/Если слетела лицензия.md",
+    "work/Сим карты/Списание сим карт.md",
     "university time/Подготовка к вступительным/Математика.md",
     "university time/Подготовка к вступительным/Русский язык.md",
     "university time/Подготовка к вступительным/Информатика.md",
