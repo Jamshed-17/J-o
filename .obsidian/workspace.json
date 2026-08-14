@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Сим карты/База.md",
+                "file": "work/Основная информация.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "База"
+              "title": "Основная информация"
             }
           }
         ]
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 200
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -171,8 +171,9 @@
   },
   "active": "454c2b77215e88e3",
   "lastOpenFiles": [
-    "work/Основная информация.md",
+    "work/Сим карты/Списание сим карт.md",
     "work/Сим карты/База.md",
+    "work/Основная информация.md",
     "work/Пароли",
     "work/Андромеда",
     "work/1С",
@@ -206,7 +207,6 @@
     "college time/Old/Прикладное программиование/9_Организация физического хранения данных и построение индексов.md",
     "college time/Old/Прикладное программиование/8_Транзакции.md",
     "college time/Old/Прикладное программиование/7_Основы языка SQL.md",
-    "college time/Old/Прикладное программиование/6_Инфологическое проектирование баз данных. ER-диаграммы.md",
     "college time/Old/Pasted image 20260419191459.png",
     "college time/Old/Pasted image 20260419191444.png",
     "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",
