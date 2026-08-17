@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Программы/Fobos/Fobos база.md",
+                "file": "work/Сервера/Почтовый сервер/База - почта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fobos база"
+              "title": "База - почта"
             }
           }
         ]
@@ -185,8 +185,10 @@
   },
   "active": "1b1994144bf66f48",
   "lastOpenFiles": [
-    "work/Программы/iVMS/iVMS база.md",
+    "work/Программы/Disptab/Disptab база.md",
     "work/Программы/Fobos/Fobos база.md",
+    "work/Программы/Disptab",
+    "work/Программы/iVMS/iVMS база.md",
     "work/Сети/Основные IP провайдеров.md",
     "work/Сети/Stemax - Смена провайдера в Сысерти.md",
     "work/Сим карты/Активация сим карт.md",
@@ -211,7 +213,6 @@
     "college time/Old/ИСРПО/Понятие репозитория.md",
     "college time/Old/Диплом/ТЗ/ТЗ УСВ 001.md",
     "college time/Old/Диплом/Заметка.md",
-    "college time/Old/ВиПКС/Тестирование_программного_обеспечения.md",
     "Без названия.base",
     "work/Сервера/Почтовый сервер",
     "work/Программы/PBX (АТС)",
@@ -220,7 +221,6 @@
     "work/Программы",
     "work/Другое",
     "work/Сети",
-    "work/ЭЦП",
     "college time/Old/Pasted image 20260419191459.png",
     "college time/Old/Pasted image 20260419191444.png",
     "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",
