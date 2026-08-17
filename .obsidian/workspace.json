@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/1С/Бэкапы 1С.md",
+                "file": "work/Другое/Понедельник.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Бэкапы 1С"
+              "title": "Понедельник"
             }
           }
         ]
@@ -185,8 +185,8 @@
   },
   "active": "454c2b77215e88e3",
   "lastOpenFiles": [
-    "work/Другое/Понедельник.md",
     "work/1С/Бэкапы 1С.md",
+    "work/Другое/Понедельник.md",
     "work/Сим карты/МТС лимиты.md",
     "work/Сервера/Адреса.md",
     "work/Сервера/ID в Anydesk.md",
