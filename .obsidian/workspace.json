@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "1b4547273f7fec78",
+        "id": "3094c57f20ba8612",
         "type": "tabs",
         "children": [
           {
-            "id": "454c2b77215e88e3",
+            "id": "1b1994144bf66f48",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "college time/Old/КомпьютерныеСети/Интерфейсы, протоколы, стеки протоколов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Интерфейсы, протоколы, стеки протоколов"
             }
           }
         ]
@@ -51,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Программирование",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,12 +66,11 @@
               "title": "Поиск"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 361.64453125
   },
   "right": {
     "id": "74f26509ea9f1fbc",
@@ -180,9 +183,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "454c2b77215e88e3",
+  "active": "1b1994144bf66f48",
   "lastOpenFiles": [
+    "college time/Old/ИСРПО/Транспортные протоколы.md",
+    "college time/Old/ИСРПО/Ручное и автоматизированное тестирование.md",
+    "college time/Old/ИСРПО/Понятие репозитория.md",
+    "college time/Old/Диплом/ТЗ/ТЗ УСВ 001.md",
+    "college time/Old/Диплом/Заметка.md",
+    "college time/Old/ВиПКС/Тестирование_программного_обеспечения.md",
+    "college time/Old/ВиПКС/Основные методы внедрения и анализа функционирования программного обеспечения и компьютерной системы.md",
+    "college time/Old/ВиПКС/Информационные системы.md",
+    "college time/Old/ВиПКС/Измерение.md",
+    "college time/Old/Алгоритмы/Теория Big O.md",
+    "college time/Old/Алгоритмы/Проект - алгоритмы сортировки.md",
     "college time/Old/Алгоритмы/Настоящее отличие массивов от списков.md",
+    "college time/Old/Акселератор Росатома/First.md",
+    "Без названия.base",
     "work/Другое/Понедельник.md",
     "work/Сервера/Почтовый сервер/База - почта.md",
     "work/Основная информация.md",
@@ -197,27 +213,14 @@
     "work/Программы/Андромеда/Бэкапы андромеды.md",
     "work/1С/Установка ЭЦП в 1С.md",
     "work/Другое/Настройка телефонов ГБР.md",
-    "work/Сим карты/Активация сим карт.md",
-    "work/1С/Если слетела лицензия.md",
-    "work/Сим карты/Списание сим карт.md",
-    "work/Сим карты/База.md",
     "work/Программы/ABS",
-    "work/Программы/Без названия.md",
     "work/Программы/iVMS",
     "work/Программы/Fobos",
-    "work/ЭЦП/Копии цифровых подписей.md",
-    "work/ЭЦП/Установка ЭЦП на ПК.md",
     "work/Программы",
     "work/Другое",
     "work/Сети",
     "work/ЭЦП",
     "work/Сервера",
-    "university time/Подготовка к вступительным/Математика.md",
-    "university time/Подготовка к вступительным/Русский язык.md",
-    "university time/Подготовка к вступительным/Информатика.md",
-    "work/Пароли",
-    "md math help.md",
-    "college time/Old/РПМ/Cs/Жизненный цикл ПО.md",
     "college time/Old/Pasted image 20260419191459.png",
     "college time/Old/Pasted image 20260419191444.png",
     "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",
