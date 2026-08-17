@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#ТРПО",
+                "query": "tag:#Программирование",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
               "title": "Поиск"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,6 +182,7 @@
   },
   "active": "454c2b77215e88e3",
   "lastOpenFiles": [
+    "college time/Old/Алгоритмы/Настоящее отличие массивов от списков.md",
     "work/Другое/Понедельник.md",
     "work/Сервера/Почтовый сервер/База - почта.md",
     "work/Основная информация.md",
@@ -216,7 +218,6 @@
     "work/Пароли",
     "md math help.md",
     "college time/Old/РПМ/Cs/Жизненный цикл ПО.md",
-    "college time/Old/Прочее/ДемЭкзамен.md",
     "college time/Old/Pasted image 20260419191459.png",
     "college time/Old/Pasted image 20260419191444.png",
     "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",
