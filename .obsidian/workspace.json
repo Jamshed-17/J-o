@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test.md",
+                "file": "md math help.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test"
+              "title": "md math help"
             }
           }
         ]
@@ -183,10 +183,10 @@
       "git-sync-desktop:Sync vault with Git": false
     }
   },
-  "active": "e4f64964671ff94d",
+  "active": "8b31d39e2495680d",
   "lastOpenFiles": [
-    "work/Основная информация.md",
     "test.md",
+    "work/Основная информация.md",
     "md math help.md",
     "work/Сервера/Контроллер доменов.md",
     "work/Сервера/ID в Anydesk.md",
