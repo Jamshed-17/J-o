@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "work/Основная информация.md",
+                "file": "work/Сервера/Почтовый сервер/База - почта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Основная информация"
+              "title": "База - почта"
             }
           }
         ],
@@ -211,8 +211,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "640fc8b21846a59d",
+  "active": "2da0456a08598033",
   "lastOpenFiles": [
+    "work/Сервера/Адреса.md",
+    "work/Сервера/Почтовый сервер/База - почта.md",
     "work/Основная информация.md",
     "conflict-files-obsidian-git.md",
     "work/События/Понедельник.md",
@@ -222,8 +224,6 @@
     "work/Сервера/ID в Anydesk.md",
     "work/Сервера/Виртуальные машины.md",
     "work/Сервера/Контроллер доменов.md",
-    "work/Сервера/Адреса.md",
-    "work/Сервера/Почтовый сервер/База - почта.md",
     "work/Программы/ГУАРД.md",
     "work/Программы/PBX (АТС)/PBX Настройка на праздники.md",
     "work/Программы/PBX (АТС)/PBX База.md",
