@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "База - почта"
             }
+          },
+          {
+            "id": "3d2bdd054a8982d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Me/Резюме.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Резюме"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -212,12 +226,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2da0456a08598033",
+  "active": "3d2bdd054a8982d3",
   "lastOpenFiles": [
+    "work/Сервера/Почтовый сервер/База - почта.md",
+    "Me/Резюме.md",
+    "Me",
     "work/Программы/PBX (АТС)/PBX Настройка на праздники.md",
     "work/Программы/PBX (АТС)/PBX База.md",
     "work/Другое/Проверка тревожной кнопки.md",
-    "work/Сервера/Почтовый сервер/База - почта.md",
     "work/1С/Если слетела лицензия.md",
     "work/Сервера/Виртуальные машины.md",
     "work/События/Понедельник.md",
@@ -239,7 +255,6 @@
     "work/Программы/Видеонаблюдение/iVMS база.md",
     "work/Программы/Видеонаблюдение/Просмотр архива.md",
     "work/Программы/Видеонаблюдение/Наблюдательный пост.md",
-    "work/Программы/Видеонаблюдение/Камеры в офисе.md",
     "work/Техника/Принеры",
     "work/Техника",
     "work/Программы/Disptab",
@@ -249,7 +264,6 @@
     "work/Программы/PBX (АТС)",
     "work/Программы/Видеонаблюдение",
     "work/Программы/Fobos",
-    "work/Программы",
     "college time/Old/Pasted image 20260419191459.png",
     "college time/Old/Pasted image 20260419191444.png",
     "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",
