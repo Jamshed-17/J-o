@@ -1,3 +1,4 @@
+#projects 
 ## Данные для входа в журнал
 Логин: EarthDani
 пароль: dbcNL0Cu

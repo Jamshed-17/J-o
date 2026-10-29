@@ -1,4 +1,27 @@
-## 1 [x]
+#eng
+
+backhaul - обратный канал связи  
+diffract - дифрагировать (огибать препятствия)  
+disrupt - нарушать, прерывать  
+high-bandwidth - высокая пропускная способность  
+line-of-sight - прямая видимость  
+microwave - микроволновый (диапазон)  
+mode - режим  
+obstacle - препятствие  
+obstruction - преграда  
+remote - удалённый  
+rural - сельский  
+stable - стабильный  
+straight - прямой  
+GAN - Глобальная сеть (Global Area Network)  
+WiMAX - Всемирная совместимость для микроволнового доступа (Worldwide Interoperability for Microwave Access)
+
+dial-up access - **коммутируемый доступ** 
+a land line - **стационарная телефонная линия** (проводная связь)  
+the closest available - **ближайший доступный**  
+lower frequency range - **нижний диапазон частот**  
+a physical obstruction - **физическое препятствие**  
+higher frequency - **более высокая частота**
 
 attribute — атрибут (определяющий признак)  
 backslash — обратная косая черта  
@@ -21,7 +44,6 @@ empty string - пустая строка
 multiple ranges — множественные диапазоны  
 single quote — одинарная кавычка
 
-## 2 [x]
 ----
 
 1. **binary** — двоичное представление, двоичная система (binary representation, binary system)
@@ -54,81 +76,6 @@ single quote — одинарная кавычка
     
 15. **variable-length arguments** — аргументы переменной длины (arguments of variable length)
 
-
-
-
-
-
-16. **binary**
-    
-17. **colon**
-    
-18. **default arguments**
-    
-19. **defining**
-    
-20. **docstring**
-    
-21. **expression**
-    
-22. **global scope**
-    
-23. **index**
-    
-24. **keyword arguments**
-    
-25. **local scope**
-    
-26. **resource**
-    
-27. **return**
-    
-28. **scope of variable**
-    
-29. **server-side**
-    
-30. **variable-length arguments**
-
-
-
-
-
-
-
-
-31. двоичное представление, двоичная система
-    
-32. двоеточие (:)
-    
-33. аргумент по умолчанию
-    
-34. описание
-    
-35. строка документации
-    
-36. выражение, значение
-    
-37. глобальная область действия
-    
-38. параметр, индекс
-    
-39. именованные аргументы
-    
-40. локальная область действия
-    
-41. ресурсный тип
-    
-42. возврат значения
-    
-43. область видимости переменных
-    
-44. сформированный на стороне сервера
-    
-45. аргументы переменной длины
-
-
-
-## 3 [x]
 ----
 
 1. **box-shadow** — тень блока
@@ -167,8 +114,6 @@ single quote — одинарная кавычка
     
 18. **word-wrap** — перенос слов
 
-
-## 4
 ----
 1. **ascedning** - по возрастанию
 2. **cell(s)** - ячейка
@@ -189,9 +134,6 @@ single quote — одинарная кавычка
 17. secondary storage - вторичное хранилище
 18. sub-folder - вложенная папка
 
-
-
-## 5 [x]
 ---
 
 audio file - звуковой файл
@@ -225,3 +167,85 @@ layer(s) - разбивка картинки на несколько элеме�
 scalable - масштабируемый
 technical drawings - технический чертёж(рисунок); техническое рисование
 zoom - изменение масштаба изображения
+
+
+1. analogy — аналогия
+
+2. appropriate — подходящий, уместный
+
+3. attempt — попытка
+
+4. carrier — носитель, перевозчик
+
+5. cease — прекращать
+
+6. collide — сталкиваться
+
+7. collision — столкновение
+
+8. content — содержание, содержимое
+
+9. cover — покрывать, обложка
+
+10. critical — критический, важный
+
+11. delay — задержка, задерживать
+
+12. detect — обнаруживать
+
+13. detection — обнаружение
+
+14. discard — отбрасывать, выбрасывать
+
+15. examine — исследовать, проверять
+
+16. gracefully — грациозно, изящно
+
+17. implementation — реализация, внедрение
+
+18. indefinitely — бесконечно, на неопределенный срок
+
+19. interrupt — прерывать
+
+20. intimidate — запугивать
+
+21. recognize — узнавать, распознавать
+
+22. retry — повторная попытка, повторить попытку
+
+23. signify — означать
+
+24. speak up — высказаться, говорить громче
+
+25. station — станция
+
+26. CSMA/CD — множественный доступ с контролем несущей и обнаружением коллизий (Carrier Sense Multiple Access with Collision Detection)
+
+27. Словосочетания (Word Combinations)
+28. broadcast address — широковещательный адрес
+
+29. to be intended for sntth. — быть предназначенным для чего-то
+
+30. to seem intimidating — казаться устрашающим
+
+31. to break sntth. apart into sntth. — разбивать что-то на что-то
+
+32. polite conversation — вежливый разговор
+
+33. to be engaged in sntth. — быть занятым чем-то
+
+34. momentary lull — временное затишье
+
+35. to give a chance to do sntth. — дать шанс сделать что-то
+
+36. in a garbled form — в искаженной форме
+
+37. collision domain — домен коллизий
+
+38. a random amount of time — случайный промежуток времени
+
+39. at the first opportunity — при первой возможности
+
+40. in a row — подряд
+
+41. to make unlikely that ... — сделать маловероятным, что ...

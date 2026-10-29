@@ -1,4 +1,4 @@
-
+#БазыДанных #Конспект #SQL 
 1. Разница между CHAR(n), NCHAR(n), VARCHAR(n) и NVARCHAR(n)
 
 Ответ:

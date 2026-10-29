@@ -30,9 +30,9 @@ markdown
 
 Используйте двойные знаки доллара `$$` для заключения формул, которые будут отображаться на отдельной центрированной строке:
 
-markdown
 
-```
+
+```md
 $$
 \int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
 $$
@@ -58,9 +58,8 @@ $$ \lim_{x \to 0} \frac{\sin x}{x} = 1 $$
 
 ### Верхние и нижние индексы[​](https://www.markdownlang.com/ru/advanced/math.html#%D0%B2%D0%B5%D1%80%D1%85%D0%BD%D0%B8%D0%B5-%D0%B8-%D0%BD%D0%B8%D0%B6%D0%BD%D0%B8%D0%B5-%D0%B8%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%D1%8B)
 
-markdown
 
-```
+```md
 <!-- Верхние индексы -->
 $x^2$, $e^{i\pi}$, $2^{10}$
 
@@ -81,9 +80,8 @@ $x_1^2$, $a_{i,j}^{(k)}$, $\sum_{i=1}^n x_i^2$
 
 ### Дроби[​](https://www.markdownlang.com/ru/advanced/math.html#%D0%B4%D1%80%D0%BE%D0%B1%D0%B8)
 
-markdown
 
-```
+```md
 <!-- Простые дроби -->
 $\frac{1}{2}$, $\frac{a}{b}$, $\frac{x+y}{x-y}$
 
