@@ -1,8 +1,8 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "tag:#bank  ",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 242,
-  "scale": 0.382301096876996,
+  "scale": 0.535979599622592,
   "close": false
 }
