@@ -1,4 +1,4 @@
-#bank 
+#процессинг #bank 
 
 **HSM - Host security module**
 
