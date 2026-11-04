@@ -2,12 +2,12 @@
   "accentColor": "#1abc9c",
   "baseFontSize": 17,
   "cssTheme": "Things",
-  "theme": "system",
+  "theme": "obsidian",
   "textFontFamily": "JetBrains Mono,Inter",
   "baseFontSizeAction": true,
-  "nativeMenus": true,
+  "nativeMenus": false,
   "monospaceFontFamily": "JetBrains Mono NL",
   "interfaceFontFamily": "Helvetica",
-  "showViewHeader": true,
+  "showViewHeader": false,
   "showRibbon": true
 }

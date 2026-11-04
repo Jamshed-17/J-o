@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "cd61906aa460e0a5",
+    "id": "5324373015726ba8",
     "type": "split",
     "children": [
       {
-        "id": "d0b5b7eb654cb2b8",
+        "id": "8f3698bb72e9f153",
         "type": "tabs",
         "children": [
           {
-            "id": "9340b0673f843a4f",
+            "id": "c447464cc8f4d327",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "work-eskhata/OracleLinux/Безопасность/Firewalld.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Firewalld"
             }
           }
         ]
@@ -139,14 +143,10 @@
             "id": "8c126c69e2063bc0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "work/Основная информация.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Основная информация"
+              "title": "Новая вкладка"
             }
           }
         ],
@@ -154,7 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 508.375,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -164,48 +164,55 @@
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "homepage:Open homepage": false,
+      "juggl:Juggl global graph": true,
+      "3d-graph:3D Graph": true,
+      "3d-graph-new:Global 3D Graph": true,
+      "infranodus-graph-view:InfraNodus Graph View": true,
+      "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "9340b0673f843a4f",
+  "active": "c447464cc8f4d327",
   "lastOpenFiles": [
-    "work-eskhata/Сети/Подсети.md",
-    "college time/Old/Прочее/Картинки/Pasted image 20240122132245 1.png",
-    "work-eskhata/Сети/Инструментарий/Шпаргалка по сети.md",
-    "Pasted image 20261103111910.png",
-    "work-eskhata/Сети/TCP IP.md",
+    "work-eskhata/OracleLinux/Безопасность/SELinux.md",
+    "work-eskhata/OracleLinux/Безопасность/Firewalld.md",
     "work-eskhata/Сети/Порты и протоколы.md",
-    "work-eskhata/Сети/Инструментарий",
+    "work-eskhata/Сети/Инструментарий/Шпаргалка по сети.md",
+    "work-eskhata/OracleLinux/Безопасность/SSH защита.md",
+    "work-eskhata/Процессинг/Процессинг - база.md",
+    "college time/Old/СП (C++) МДК 01.04/Оператор ветвления if.md",
+    "work-eskhata/OracleLinux/Безопасность/PAM (Pluggable Authentication Modules).md",
+    "work-eskhata/OracleLinux/Безопасность/Решения по безопасности.md",
     "work-eskhata/Сети/DNS.md",
     "work-eskhata/Сети/DHCP.md",
-    "work-eskhata/Сети/IP адрес, маска подсети, шлюз.md",
-    "work-eskhata/Сети/Белые и серые IP адреса.md",
+    "work-eskhata/Сети/Подсети.md",
     "work-eskhata/Сети/CIDR-нотация.md",
-    "work-eskhata/Сети/TCP&IP/Шлюз (Default gateway).md",
-    "college time/Old/ТРиЗБД/Таблица.md",
-    "college time/Old/КомпьютерныеСети/Сетевые протоколы.md",
-    "college time/Old/КомпьютерныеСети/Телекоммуникации.md",
+    "work-eskhata/Сети/Белые и серые IP адреса.md",
+    "work-eskhata/Сети/TCP IP.md",
+    "work-eskhata/Сети/IP адрес, маска подсети, шлюз.md",
+    "work-eskhata/Процессинг/HSM.md",
+    "work-eskhata/Процессинг/NFC карты.md",
+    "work-eskhata/Процессинг/Чиповые карты.md",
+    "work-eskhata/Процессинг/Карты с магнитной полосой.md",
+    "work-eskhata/Процессинг/Эволюция карт.md",
+    "work-eskhata/Процессинг/Платёжные сети.md",
+    "work-eskhata/Процессинг/Эквайринг.md",
+    "work-eskhata/Процессинг/Эквайер.md",
+    "work-eskhata/Процессинг/Эмитент.md",
+    "work-eskhata/Процессинг/PAN.md",
+    "work-eskhata/OracleLinux/Безопасность",
+    "college time/Old/Прочее/Картинки/Pasted image 20240122132245 1.png",
+    "Pasted image 20261103111910.png",
+    "work-eskhata/Сети/Инструментарий",
     "work-eskhata/Сети/TCP&IP",
     "work-eskhata/Сети",
-    "college time/Old/КомпьютерныеСети/Интерфейсы, протоколы, стеки протоколов.md",
-    "college time/Old/КомпьютерныеСети/Работа с Word.md",
-    "college time/Old/КомпьютерныеСети/Модель OSI.md",
-    "work-eskhata/OracleLinux/OL база.md",
-    "work-eskhata/OracleLinux/OLVM.md",
-    "work-eskhata/OracleLinux/KVM.md",
-    "work-eskhata/OracleLinux/Zabbix.md",
-    "work-eskhata/OracleLinux/Grafana.md",
-    "work-eskhata/Процессинг/CVV.md",
     "work-eskhata/OracleLinux",
-    "work-eskhata/Процессинг/Фронт-офис.md",
-    "work-eskhata/Процессинг/Бэк-офис.md",
-    "work-eskhata/Процессинг/Антифрод система.md",
     "work-eskhata/Процессинг/Без названия.base",
     "work-eskhata/Процессинг",
     "work-eskhata",
     "Me",
     "college time/Old/work/Техника/Принеры",
-    "college time/Old/work/Техника",
     "college time/Old/Pasted image 20260419191459.png",
     "college time/Old/Pasted image 20260419191444.png",
     "Диплом/ТЗ/photo_2026-01-17_06-28-52.jpg",

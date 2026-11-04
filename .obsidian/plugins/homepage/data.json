@@ -1,0 +1,24 @@
+{
+  "version": 5,
+  "homepages": {
+    "Main Homepage": {
+      "value": "Home.md",
+      "kind": "Graph view",
+      "openOnStartup": true,
+      "openMode": "Replace all open notes",
+      "manualOpenMode": "Keep open notes",
+      "view": "Default view",
+      "revertView": true,
+      "openWhenEmpty": true,
+      "openOnNewTab": false,
+      "refreshDataview": false,
+      "autoCreate": false,
+      "autoScroll": false,
+      "pin": false,
+      "commands": [],
+      "alwaysApply": true,
+      "hideReleaseNotes": false
+    }
+  },
+  "separateMobile": false
+}
