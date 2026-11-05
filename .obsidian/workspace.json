@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4509724f8bf84da7",
+        "id": "3f6d05f4b6b14791",
         "type": "tabs",
         "children": [
           {
-            "id": "e7a7b303c61786dc",
+            "id": "c69bd77664f6342b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "work-eskhata/OracleLinux/LVM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LVM"
             }
           }
         ]
@@ -169,8 +173,23 @@
       "obsidian-advanced-slides:Show Slide Preview": true
     }
   },
-  "active": "e7a7b303c61786dc",
+  "active": "c69bd77664f6342b",
   "lastOpenFiles": [
+    "work-eskhata/OracleLinux/SystemD.md",
+    "work-eskhata/OracleLinux/LVM.md",
+    "work-eskhata/Шпора по командам.md",
+    "work-eskhata/OracleLinux/Grafana.md",
+    "work-eskhata/OracleLinux/Zabbix.md",
+    "work-eskhata/OracleLinux/Oracle Linux Virtualization Manager.md",
+    "Pasted image 20261105101104.png",
+    "work-eskhata/OracleLinux/DNF.md",
+    "work-eskhata/OracleLinux/Инструментарий/Навигация и манипуляция файлами в OL.md",
+    "work-eskhata/OracleLinux/OL база.md",
+    "work-eskhata/OracleLinux/Безопасность/Права доступа.md",
+    "work-eskhata/Сети/Инструментарий/Шпаргалка по сети.md",
+    "work-eskhata/Сети/TCP IP.md",
+    "work-eskhata/Сети/IP адрес, маска подсети, шлюз.md",
+    "work-eskhata/OracleLinux/Безопасность/SELinux.md",
     "work-eskhata/Процессинг/Эволюция карт.md",
     "work-eskhata/Процессинг/Платёжные сети.md",
     "work-eskhata/Процессинг/HSM.md",
@@ -183,20 +202,6 @@
     "work-eskhata/Процессинг/Процессинг - база.md",
     "work-eskhata/Процессинг/PAN.md",
     "work-eskhata/Процессинг/Антифрод система.md",
-    "work-eskhata/Процессинг/Бэк-офис.md",
-    "work-eskhata/Процессинг/Фронт-офис.md",
-    "work-eskhata/Процессинг/CVV.md",
-    "college time/Old/work/События/Понедельник.md",
-    "work-eskhata/OracleLinux/Безопасность/Права доступа.md",
-    "work-eskhata/OracleLinux/Инструментарий/Навигация и манипуляция файлами в OL.md",
-    "work-eskhata/OracleLinux/Инструментарий/Команды vim.md",
-    "work-eskhata/Сети/Инструментарий/Шпаргалка по сети.md",
-    "work-eskhata/OracleLinux/Безопасность/SSH защита.md",
-    "work-eskhata/OracleLinux/Grafana.md",
-    "work-eskhata/OracleLinux/OL база.md",
-    "work-eskhata/OracleLinux/Безопасность/Firewalld.md",
-    "work-eskhata/OracleLinux/Безопасность/SELinux.md",
-    "work-eskhata/OracleLinux/Безопасность/PAM (Pluggable Authentication Modules).md",
     "work-eskhata/OracleLinux/Инструментарий",
     "work-eskhata/OracleLinux/Безопасность",
     "college time/Old/Прочее/Картинки/Pasted image 20240122132245 1.png",
@@ -216,7 +221,6 @@
     "college time/Old/Прочее/Pasted image 20251130165219.png",
     "college time/Old/Прочее/16_UTK.png",
     "Pasted image 20250909182058.png",
-    "Pasted image 20250411141253.png",
     "Без названия.canvas"
   ]
 }
